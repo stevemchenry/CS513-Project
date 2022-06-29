@@ -1,0 +1,1235 @@
+[
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Inspection Type using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Inspection Type using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "No Entry",
+          "NO ENTRY",
+          "no entry",
+          "No entry"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "No Entry"
+      },
+      {
+        "from": [
+          "SFP/COMPLAINT",
+          "SFP/Complaint",
+          "sfp/complaint"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SFP/Complaint"
+      },
+      {
+        "from": [
+          "License",
+          "LICENSE",
+          "license"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "License"
+      },
+      {
+        "from": [
+          "SPECIAL TASK FORCE",
+          "Special Task Force"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Special Task Force"
+      },
+      {
+        "from": [
+          "KIDS CAFE",
+          "Kids Cafe'"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kids Cafe"
+      },
+      {
+        "from": [
+          "Canvass",
+          "CANVASS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canvass"
+      },
+      {
+        "from": [
+          "fire complaint",
+          "FIRE COMPLAINT"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Fire Complaint"
+      },
+      {
+        "from": [
+          "LICENSE CONSULTATION",
+          "License consultation"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Consultation"
+      },
+      {
+        "from": [
+          "Out of Business",
+          "OUT OF BUSINESS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Out of Business"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Task Force Liquor 1475",
+          "TASK FORCE LIQUOR 1470",
+          "TASK FORCE LIQUOR 1474"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Task Force"
+      },
+      {
+        "from": [
+          "LICENSE TASK FORCE / NOT -FOR-PROFIT CLU",
+          "LICENSE TASK FORCE / NOT -FOR-PROFIT CLUB"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Task Force"
+      },
+      {
+        "from": [
+          "Canvass",
+          "CANVAS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canvass"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Task Force",
+          "task force"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Task Force"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "CANVASS SPECIAL EVENTS",
+          "CANVASS/SPECIAL EVENT"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canvass"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Out of Business",
+          "out ofbusiness"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Out of Business"
+      },
+      {
+        "from": [
+          "Task Force",
+          "TASKFORCE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Task Force"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "TASK FORCE LIQUOR (1481)",
+          "Task Force Liquor Catering",
+          "Task force liquor inspection 1474",
+          "task force(1470) liquor tavern"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Task Force"
+      },
+      {
+        "from": [
+          "TASK FORCE PACKAGE GOODS 1474",
+          "TASK FORCE PACKAGE LIQUOR"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Task Force"
+      },
+      {
+        "from": [
+          "Canvass Re-Inspection",
+          "CANVASS RE INSPECTION OF CLOSE UP"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canvass Re-Inspection"
+      },
+      {
+        "from": [
+          "Suspected Food Poisoning",
+          "Suspected Food Poisoning Re-inspection"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Suspected Food Poisoning"
+      },
+      {
+        "from": [
+          "TASK FORCE NIGHT",
+          "TASK FORCE NOT READY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Task Force"
+      },
+      {
+        "from": [
+          "License Re-Inspection",
+          "1315 license reinspection"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "License Re-Inspection"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Task Force",
+          "Task Force"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Task Force"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "License Re-Inspection",
+          "LICENSE RENEWAL FOR DAYCARE",
+          "LICENSE RENEWAL INSPECTION FOR DAYCARE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "License Re-Inspection"
+      },
+      {
+        "from": [
+          "Fire Complaint",
+          "FIRE/COMPLAIN"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Fire Complaint"
+      },
+      {
+        "from": [
+          "Task Force",
+          "Task Force for liquor 1474"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Task Force"
+      },
+      {
+        "from": [
+          "Short Form Complaint",
+          "Short Form Fire-Complaint"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Short Form Complaint"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ADDENDUM"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Addendum"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "CANVASS FOR RIB FEST"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canvass"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "CANVASS SCHOOL/SPECIAL EVENT"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canvass"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "CHANGED COURT DATE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Changed Court Date"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "citation re-issued"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Citation Re-Issued"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "CLOSE-UP/COMPLAINT REINSPECTION"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Close-up / Complaint Re-Inspection"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Complaint-Fire"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Complaint / Fire"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Complaint-Fire Re-inspection"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Complaint / Fire Re-inspection"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "CORRECTIVE ACTION"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Corrective Action"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "DAY CARE LICENSE RENEWAL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Day Care License Renewal"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "error save"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Error Save"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "expansion"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Expansion"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "finish complaint inspection from 5-18-10"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Complaint"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "FIRE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Complaint / Fire"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Fire Complaint"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Complaint / Fire"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "HACCP QUESTIONAIRE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "HACCP Questionnaire"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "KITCHEN CLOSED FOR RENOVATION"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kitchen Closed for Renovation"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "LICENSE CANCELED BY OWNER"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "License Cancelled by Owner"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "LICENSE DAYCARE 1586"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "License Day Care"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "LICENSE REQUEST"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "License Request"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "license task 1474"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Task Force"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "LICENSE WRONG ADDRESS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "License Wrong Address"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "License-Task Force"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Task Force"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "LICENSE/NOT READY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "License / Not Ready"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "LIQOUR TASK FORCE NOT READY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Task Force"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "LIQUOR CATERING"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Liquor Catering"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NO ENTRY-SHORT COMPLAINT)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "No Entry / Short Complaint"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "O.B."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Out of Business"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "OWNER SUSPENDED OPERATION/LICENSE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Owner Suspended Operation / License"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Package Liquor 1474"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Package Liquor"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "POSSIBLE FBI"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Possible FBI"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "RE-INSPECTION OF CLOSE-UP"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Re-Inspection of Close-Up"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "RECALL INSPECTION"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Recall Inspection"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "REINSPECTION"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Re-Inspection"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "REINSPECTION OF 48 HOUR NOTICE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Re-Inspection of 48 Hour Notice"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "SFP RECENTLY INSPECTED"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SFP Recently Inspected"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "SFP/Complaint"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SFP / Complaint"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "SMOKING COMPLAINT"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Complaint / Smoking"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Special Task Force"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Task Force"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Task Force"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Task Force"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "TASTE OF CHICAGO"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Taste of Chicago"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "TAVERN 1470"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tavern"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "TWO PEOPLE ATE AND GOT SICK."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Suspected Food Poisoning"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  }
+]
