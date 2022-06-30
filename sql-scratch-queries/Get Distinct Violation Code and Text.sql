@@ -1,8 +1,9 @@
--- Note: Assumes the raw dataset has been loaded into a table named "FoodInspections"
+USE CDPH;
+
 WITH SampleInspections AS
 (
 	SELECT *
-	FROM FoodInspections
+	FROM DataOpenRefine
 )
 
 SELECT DISTINCT ViolationID
