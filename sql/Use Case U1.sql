@@ -1,11 +1,22 @@
 USE CDPH;
 
+-- Usage: Set the parameter values below to filter results as desired.
+--
+-- Two parameters, Results (@results) and Violations (@violations), are 
+-- multi-valued parameters. Multi-valued parameters are provided as a string of
+-- one or more candidate values delimited by pipes "|".
+--
+-- Each parameter may individually be set to NULL so that the query does not
+-- include that parameter among its filtering criteria.
+
 DECLARE @dateBegin DATE = '2014-01-01';	-- Demonstration value: From nspections performed on January 01, 2014...
 DECLARE @dateEnd DATE = '2016-01-01';	-- Demonstration value: ...Until inspections performed on January 01, 2016
 DECLARE @businessName NVARCHAR(250) = N'Walgreens';	-- Demonstration value: All businesess whose name (or alias) contains "Walgreens"
 DECLARE @license INT = NULL	-- Demonstration value: NULL; not populated by user - no filter on license
 DECLARE @results NVARCHAR(MAX) = N'Pass|Pass w/ Conditions'	-- Demonstration value: "Pass" or "Pass w/ Conditions" - a passing result
 DECLARE @violations NVARCHAR(MAX) = N'1|2|3|5|8|9|11|12|22|33';	-- Demonstration value: An arbitrary selection of multiple codes
+
+-- There are no user-modifiable parameters beyond this point
 
 SELECT Inspection.InspectionID
 	,CASE WHEN ((BusinessAlias.[Name] IS NOT NULL) AND (Business.[Name] <> BusinessAlias.[Name]))
