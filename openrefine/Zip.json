@@ -1,0 +1,1508 @@
+[
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2009479$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60623"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1954150$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60640"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2328$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60654"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^18474$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60634"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^76530$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60640"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1887746$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60617"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1980101$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60619"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1991157$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60614"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2037183$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60613"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2060790$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60625"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2079077$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60640"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2120843$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60657"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2137292$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60639"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2137471$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60613"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2180056$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60657"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2196573$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60649"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2225427$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60187"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2225460$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60608"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2229577$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60613"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2232344$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60616"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2303850$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60654"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2303851$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60654"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2308286$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60654"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2353843$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60621"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2354157$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60614"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2358755$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60606"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2362895$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60659"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2373807$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60614"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2373808$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60614"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2385439$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60649"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2418085$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60610"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2428313$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60628"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2442933$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60604"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2442936$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60604"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2492548$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60604"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2492551$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60604"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2511871$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60606"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2522031$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60629"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^0$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60007"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1166638$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60614"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1354323$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60605"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1515116$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60626"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1932251$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60616"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1992096$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60625"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2451367$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60455"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "list",
+                    "name": "Zip",
+                    "expression": "value",
+                    "columnName": "Zip",
+                    "invert": false,
+                    "omitBlank": false,
+                    "omitError": false,
+                    "selection": [],
+                    "selectBlank": true,
+                    "selectError": false
+                },
+                {
+                    "type": "list",
+                    "name": "License #",
+                    "expression": "value",
+                    "columnName": "License #",
+                    "invert": false,
+                    "omitBlank": false,
+                    "omitError": false,
+                    "selection": [
+                        {
+                            "v": {
+                                "v": 2442868,
+                                "l": "2442868"
+                            }
+                        }
+                    ],
+                    "selectBlank": false,
+                    "selectError": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60620"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "list",
+                    "name": "Zip",
+                    "expression": "value",
+                    "columnName": "Zip",
+                    "invert": false,
+                    "omitBlank": false,
+                    "omitError": false,
+                    "selection": [],
+                    "selectBlank": true,
+                    "selectError": false
+                },
+                {
+                    "type": "list",
+                    "name": "License #",
+                    "expression": "value",
+                    "columnName": "License #",
+                    "invert": false,
+                    "omitBlank": false,
+                    "omitError": false,
+                    "selection": [
+                        {
+                            "v": {
+                                "v": 2032750,
+                                "l": "2032750"
+                            }
+                        }
+                    ],
+                    "selectBlank": false,
+                    "selectError": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60606"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "list",
+                    "name": "Zip",
+                    "expression": "value",
+                    "columnName": "Zip",
+                    "invert": false,
+                    "omitBlank": false,
+                    "omitError": false,
+                    "selection": [],
+                    "selectBlank": true,
+                    "selectError": false
+                },
+                {
+                    "type": "list",
+                    "name": "License #",
+                    "expression": "value",
+                    "columnName": "License #",
+                    "invert": false,
+                    "omitBlank": false,
+                    "omitError": false,
+                    "selection": [
+                        {
+                            "v": {
+                                "v": 1443483,
+                                "l": "1443483"
+                            }
+                        }
+                    ],
+                    "selectBlank": false,
+                    "selectError": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Zip",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "60640"
+            }
+        ],
+        "description": "Mass edit cells in column Zip"
+    }
+]

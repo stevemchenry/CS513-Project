@@ -1,223 +1,2610 @@
 [
-  {
-    "op": "core/text-transform",
-    "engineConfig": {
-      "facets": [],
-      "mode": "row-based"
+    {
+        "op": "core/text-transform",
+        "engineConfig": {
+            "facets": [],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value.trim()",
+        "onError": "keep-original",
+        "repeat": false,
+        "repeatCount": 10,
+        "description": "Text transform on cells in column City using expression value.trim()"
     },
-    "columnName": "City",
-    "expression": "value.trim()",
-    "onError": "keep-original",
-    "repeat": false,
-    "repeatCount": 10,
-    "description": "Text transform on cells in column City using expression value.trim()"
-  },
-  {
-    "op": "core/text-transform",
-    "engineConfig": {
-      "facets": [],
-      "mode": "row-based"
+    {
+        "op": "core/text-transform",
+        "engineConfig": {
+            "facets": [],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value.replace(/\\s+/,' ')",
+        "onError": "keep-original",
+        "repeat": false,
+        "repeatCount": 10,
+        "description": "Text transform on cells in column City using expression value.replace(/\\s+/,' ')"
     },
-    "columnName": "City",
-    "expression": "value.replace(/\\s+/,' ')",
-    "onError": "keep-original",
-    "repeat": false,
-    "repeatCount": 10,
-    "description": "Text transform on cells in column City using expression value.replace(/\\s+/,' ')"
-  },
-  {
-    "op": "core/text-transform",
-    "engineConfig": {
-      "facets": [],
-      "mode": "row-based"
+    {
+        "op": "core/text-transform",
+        "engineConfig": {
+            "facets": [],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value.toUppercase()",
+        "onError": "keep-original",
+        "repeat": false,
+        "repeatCount": 10,
+        "description": "Text transform on cells in column City using expression value.toUppercase()"
     },
-    "columnName": "City",
-    "expression": "value.toUppercase()",
-    "onError": "keep-original",
-    "repeat": false,
-    "repeatCount": 10,
-    "description": "Text transform on cells in column City using expression value.toUppercase()"
-  },
-  {
-    "op": "core/mass-edit",
-    "engineConfig": {
-      "facets": [],
-      "mode": "row-based"
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "CHICAGO",
+                    "CCHICAGO",
+                    "CHCHICAGO"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "CHICAGO"
+            },
+            {
+                "from": [
+                    "CHICAGO",
+                    "CCHICAGO",
+                    "CHICAGOI"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "CHICAGO"
+            },
+            {
+                "from": [
+                    "OLYMPIA FIELDS",
+                    "OOLYMPIA FIELDS"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "OLYMPIA FIELDS"
+            },
+            {
+                "from": [
+                    "CHICAGO",
+                    "CHICAGOI"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
     },
-    "columnName": "City",
-    "expression": "value",
-    "edits": [
-      {
-        "from": [
-          "CHICAGO",
-          "CCHICAGO",
-          "CHCHICAGO"
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "CHICAGO",
+                    "CHICAGOCHICAGO"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
         ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "CHICAGO"
-      },
-      {
-        "from": [
-          "CHICAGO",
-          "CCHICAGO",
-          "CHICAGOI"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "CHICAGO"
-      },
-      {
-        "from": [
-          "OLYMPIA FIELDS",
-          "OOLYMPIA FIELDS"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "OLYMPIA FIELDS"
-      },
-      {
-        "from": [
-          "CHICAGO",
-          "CHICAGOI"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "CHICAGO"
-      }
-    ],
-    "description": "Mass edit cells in column City"
-  },
-  {
-    "op": "core/mass-edit",
-    "engineConfig": {
-      "facets": [],
-      "mode": "row-based"
+        "description": "Mass edit cells in column City"
     },
-    "columnName": "City",
-    "expression": "value",
-    "edits": [
-      {
-        "from": [
-          "CHICAGO",
-          "CHICAGOCHICAGO"
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "BRIDEVIEW",
+                    "BROADVIEW"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "BROADVIEW"
+            },
+            {
+                "from": [
+                    "CHICAGO",
+                    "312CHICAGO"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
         ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "CHICAGO"
-      }
-    ],
-    "description": "Mass edit cells in column City"
-  },
-  {
-    "op": "core/mass-edit",
-    "engineConfig": {
-      "facets": [],
-      "mode": "row-based"
+        "description": "Mass edit cells in column City"
     },
-    "columnName": "City",
-    "expression": "value",
-    "edits": [
-      {
-        "from": [
-          "BRIDEVIEW",
-          "BROADVIEW"
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "CHICAGO",
+                    "CHCICAGO"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
         ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "BROADVIEW"
-      },
-      {
-        "from": [
-          "CHICAGO",
-          "312CHICAGO"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "CHICAGO"
-      }
-    ],
-    "description": "Mass edit cells in column City"
-  },
-  {
-    "op": "core/mass-edit",
-    "engineConfig": {
-      "facets": [],
-      "mode": "row-based"
+        "description": "Mass edit cells in column City"
     },
-    "columnName": "City",
-    "expression": "value",
-    "edits": [
-      {
-        "from": [
-          "CHICAGO",
-          "CHCICAGO"
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "NILES NILES"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "NILES"
+            }
         ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "CHICAGO"
-      }
-    ],
-    "description": "Mass edit cells in column City"
-  },
-  {
-    "op": "core/mass-edit",
-    "engineConfig": {
-      "facets": [],
-      "mode": "row-based"
+        "description": "Mass edit cells in column City"
     },
-    "columnName": "City",
-    "expression": "value",
-    "edits": [
-      {
-        "from": [
-          "NILES NILES"
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "BANNOCKBURNDEERFIELD"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "BANNOCKBURN"
+            }
         ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "NILES"
-      }
-    ],
-    "description": "Mass edit cells in column City"
-  },
-  {
-    "op": "core/mass-edit",
-    "engineConfig": {
-      "facets": [],
-      "mode": "row-based"
+        "description": "Mass edit cells in column City"
     },
-    "columnName": "City",
-    "expression": "value",
-    "edits": [
-      {
-        "from": [
-          "BANNOCKBURNDEERFIELD"
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "INACTIVE"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": ""
+            }
         ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "BANNOCKBURN"
-      }
-    ],
-    "description": "Mass edit cells in column City"
-  },
-  {
-    "op": "core/mass-edit",
-    "engineConfig": {
-      "facets": [],
-      "mode": "row-based"
+        "description": "Mass edit cells in column City"
     },
-    "columnName": "City",
-    "expression": "value",
-    "edits": [
-      {
-        "from": [
-          "INACTIVE"
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1354323$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
         ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": ""
-      }
-    ],
-    "description": "Mass edit cells in column City"
-  }
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1443483$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1681031$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1681032$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1681033$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1681036$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1681039$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1681040$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1932251$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1992096$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2032750$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2442868$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2458787$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2009479$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1954150$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^0$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "UNIVERSITY OF AESTHETICS/TOUCH CLINIC",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^0$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "PIZZA HUT",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^0$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "BRITISH AIRWAYS",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "DES PLAINES"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2328$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^18474$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^76530$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1095849$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1300853$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1818288$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1887746$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1980101$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1991157$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2004357$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2009471$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2027926$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2037183$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2060790$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2079077$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2079264$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2120843$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2137292$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2137471$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2180056$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2225427$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "WHEATON"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2225460$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2229577$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2232344$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2232657$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2252366$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2252588$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2252649$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2277575$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2303850$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2303851$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2308286$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2353843$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2354157$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2355181$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2358755$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2362895$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2364330$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2373807$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2373808$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2385220$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2385439$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2404306$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2418085$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2428313$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2442933$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2442936$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2492548$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2492551$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2511871$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2517808$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "DES PLAINES"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2517809$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "DES PLAINES"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2522031$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2522168$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2522169$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2523569$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2523571$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2535691$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2535883$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "2196573",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "City",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "CHICAGO"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "CHICAGO"
+            }
+        ],
+        "description": "Mass edit cells in column City"
+    }
 ]

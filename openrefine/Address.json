@@ -1,54 +1,3158 @@
 [
-  {
-    "op": "core/text-transform",
-    "engineConfig": {
-      "facets": [],
-      "mode": "row-based"
+    {
+        "op": "core/text-transform",
+        "engineConfig": {
+            "facets": [],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value.trim()",
+        "onError": "keep-original",
+        "repeat": false,
+        "repeatCount": 10,
+        "description": "Text transform on cells in column Address using expression value.trim()"
     },
-    "columnName": "Address",
-    "expression": "value.trim()",
-    "onError": "keep-original",
-    "repeat": false,
-    "repeatCount": 10,
-    "description": "Text transform on cells in column Address using expression value.trim()"
-  },
-  {
-    "op": "core/text-transform",
-    "engineConfig": {
-      "facets": [],
-      "mode": "row-based"
+    {
+        "op": "core/text-transform",
+        "engineConfig": {
+            "facets": [],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value.replace(/\\s+/,' ')",
+        "onError": "keep-original",
+        "repeat": false,
+        "repeatCount": 10,
+        "description": "Text transform on cells in column Address using expression value.replace(/\\s+/,' ')"
     },
-    "columnName": "Address",
-    "expression": "value.replace(/\\s+/,' ')",
-    "onError": "keep-original",
-    "repeat": false,
-    "repeatCount": 10,
-    "description": "Text transform on cells in column Address using expression value.replace(/\\s+/,' ')"
-  },
-  {
-    "op": "core/text-transform",
-    "engineConfig": {
-      "facets": [],
-      "mode": "row-based"
+    {
+        "op": "core/text-transform",
+        "engineConfig": {
+            "facets": [],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value.toUppercase()",
+        "onError": "keep-original",
+        "repeat": false,
+        "repeatCount": 10,
+        "description": "Text transform on cells in column Address using expression value.toUppercase()"
     },
-    "columnName": "Address",
-    "expression": "value.toUppercase()",
-    "onError": "keep-original",
-    "repeat": false,
-    "repeatCount": 10,
-    "description": "Text transform on cells in column Address using expression value.toUppercase()"
-  },
-  {
-    "op": "core/text-transform",
-    "engineConfig": {
-      "facets": [],
-      "mode": "row-based"
+    {
+        "op": "core/text-transform",
+        "engineConfig": {
+            "facets": [],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "grel:value.replace(\"\\.\", \"\")",
+        "onError": "keep-original",
+        "repeat": false,
+        "repeatCount": 10,
+        "description": "Text transform on cells in column Address using expression grel:value.replace(\"\\.\", \"\")"
     },
-    "columnName": "Address",
-    "expression": "grel:value.replace(\"\\.\", \"\")",
-    "onError": "keep-original",
-    "repeat": false,
-    "repeatCount": 10,
-    "description": "Text transform on cells in column Address using expression grel:value.replace(\"\\.\", \"\")"
-  }
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^11747$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "LA RABIDA CHILDREN'S HOSPITAL",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "6500 S COAST GUARD DR"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "6501 S PROMONTORY DR"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^14616$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "ILLINOIS SPORTSERVICE, INC.",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "333 W 35 ST"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "333 W 35TH ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^14616$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "ILLINOIS SPORTSERVICE, INC.",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "333 W 35TH ST BLDG"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "333 W 35TH ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^37979$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "BISMARCK ENTERPRISES/UNITED",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "1901 W MADISON ST BLDG"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "1901 W MADISON ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^37979$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "BISMARCK ENTERPRISES/UNITED",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "1901 W MADISON"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "1901 W MADISON ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "BALKAN RESTAURANT CORP.",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "2321 W LAWRENSE AVE"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "2321 W LAWRENCE AVE"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "GOLDEN HOUSE RESTAURANT",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "4742-44 N RACINE AVE"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "4742-4744 N RACINE AVE"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "THUNDERBIRD CATERING CO.",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "1204 W 35 ST"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "1204 W 36TH PL"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1492069$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "4606 A S DAMEN"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "4606 S DAMEN AVE"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1518178$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "2706 E 75TH ST"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "2706-08 E 75TH ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1518179$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "2706 E 75TH ST"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "2706-08 E 75TH ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1543500$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "616 S DEARBORN ST"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "614-618 S DEARBORN ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1574001$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "1060 W ADDISON AVE"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "1060 W ADDISON ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1574002$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "1060 W ADDISON AVE"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "1060 W ADDISON ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1622310$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "6445 W DIVERSEY"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "6445 W DIVERSEY AVE"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1681031$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "2843 W 63RD ST"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "2843 - 2847 W 63RD ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1681032$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "2843 W 63RD ST"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "2843 - 2847 W 63RD ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1681033$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "2843 W 63RD ST"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "2843 - 2847 W 63RD ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1681036$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "2843 W 63RD ST"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "2843 - 2847 W 63RD ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1681039$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "2843 W 63RD ST"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "2843 - 2847 W 63RD ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1681040$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "2843 W 63RD ST"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "2843 - 2847 W 63RD ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1717420$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "1960 W 13 TH ST"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "1960 W 13TH ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1947810$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "101 N WESTERN AVE"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "101-111 N WESTERN AVE"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1968904$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "2401 W DEVON AVE"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "2401-2405 W DEVON AVE"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1979999$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "1653 W CONGRESS PKWY STE"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "1653 W CONGRESS PKWY"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1986817$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "4604 N BROADWAY BLDG"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "4604 N BROADWAY"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1997579$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "6344 W IRVING PARK RD"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "6344-6348 W IRVING PARK RD"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1997650$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "211 W 22ND ST"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "211 W 22ND PL"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2004238$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "1800 E 79TH ST BLDG"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "1800 E 79TH ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2008948$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "8750 W BRYN WAWR AVE"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "8750 W BRYN MAWR AVE"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2009231$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "11919 S AVENUE O AVE FL"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "11919 S AVENUE O AVE FRNT"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2013912$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "4925 N BROADWAY BLDG B"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "4925 N BROADWAY"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2021346$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "6120 N LINCOLN BLDG"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "6118-6120 N LINCOLN AVE"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2021749$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "6313-6323 N PULASKI BLDG"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "6313-6323 N PULASKI RD"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2021890$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "3714 N SOUTHPORT AVE BLDG"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "3714 N SOUTHPORT AVE"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2022168$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "4746 N LINCOLN AVE"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "4746-4750 N LINCOLN AVE"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2031651$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "222 W MERCHANDISE MART PLZ"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2032750$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "329 S FRANKLIN ST"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "331-333 S FRANKLIN ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2037577$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "5959 W LAWRENCE AVE"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "5951-5959 W LAWRENCE AVE"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2041764$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "1854 W 18TH ST BLDG"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "1854 W 18TH ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2054475$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "3449 S HALSTED ST"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "3449-3451 S HALSTED ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2055234$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "3421 -3425 N CLARK ST"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "3421-3425 N CLARK ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2055234$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "3421 N CLARK ST"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "3421-3425 N CLARK ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2060451$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "2301 E 79TH ST"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "2301 - 2305 E 79TH ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2064702$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "1244 N WELLS ST FL"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "1244 N WELLS ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2065298$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "4749 N ROCKWELL ST"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "4749-4753 N ROCKWELL ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2069823$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "4731 S ASHLAND AVE"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "4731 1/2 S ASHLAND AVE"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2078723$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "3231 N CLARK"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "3231 N CLARK ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2088918$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "5452 S HALSTED ST"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "5450-5452 S HALSTED ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2098830$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "2039 W NORTH AVE"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "2039-2041 W NORTH AVE"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2098831$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "2039 W NORTH AVE"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "2039-2041 W NORTH AVE"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2120267$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "3645- 45 1/2 W 83RD PL"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "3645-3645 1/2 W 83RD PL"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2120267$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "3645 W 83RD PL"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "3645-3645 1/2 W 83RD PL"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2133723$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "4142 W 63RD ST"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "4142-4144 W 63RD ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2138489$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "815 W VAN BUREN"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "815 W VAN BUREN ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2142351$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "201 N STATE ST FL"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "201 N STATE ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2152257$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "1646 W 95TH ST"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "1646-1648 W 95TH ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2152726$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "8308 S ASHLAND AVE"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "8308-8310 S ASHLAND AVE"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2192579$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "2031 N CLYBOURN"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "2031 N CLYBOURN AVE"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2202445$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "2343 E 71ST ST"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "2343-2345 E 71ST ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2264029$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "1114 W RANDOLPH ST"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "1110-1114 W RANDOLPH ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2264030$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "1114 W RANDOLPH ST"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "1110-1114 W RANDOLPH ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2264091$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "1362 N MILWAUKEE AVE"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "1562 N MILWAUKEE AVE"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2177122$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "8950 S ASHLAND AVE"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "8958 S ASHLAND AVE"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2283546$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "305-307 E GARFIELD"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "305-307 E GARFIELD BLVD"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2283546$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "305 E GARFIELD BLVD"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "305-307 E GARFIELD BLVD"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2308884$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "819 W FULTON"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "819 W FULTON ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2308884$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "819 W W FULTON MARKET"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "819 W FULTON ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2309057$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "1356 N MILWAUKEE AVE"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "1365 N MILWAUKEE AVE"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2320340$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "2706 W 51ST ST BLDG"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "2700-2712 W 51ST ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2380116$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "6748 W DIVERSEY AVE"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "6748 1/2 W DIVERSEY AVE"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2442346$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "4531-35 W MARQUETTE RD"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "4531-4535 W MARQUETTE RD"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2442868$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "8233 S ASHLAND AVE"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2457577$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "4442 N BRODWAY"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "4442 N BROADWAY"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2458000$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "200 S MICHIGAN AVE"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "200 N MICHIGAN AVE"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2483543$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "4101-4103 W 47TH ST"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "4101 W 47TH ST"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2488459$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "5805-5807 W DIVERSEY AVE"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "5805 W DIVERSEY AVE"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2516822$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "3201-3225 N ASHLAND AVE"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "3201 N ASHLAND AVE"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "DBA Name",
+                    "columnName": "DBA Name",
+                    "query": "",
+                    "mode": "text",
+                    "caseSensitive": false,
+                    "invert": false
+                },
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^2535189$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "4601-4615 N PULASKI RD"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "4603 N PULASKI RD"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [
+                {
+                    "type": "text",
+                    "name": "License #",
+                    "columnName": "License #",
+                    "query": "^1954150$",
+                    "mode": "regex",
+                    "caseSensitive": false,
+                    "invert": false
+                }
+            ],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    "5235-5237 N BROARDWAY"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "5235-5237 N BROADWAY"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    },
+    {
+        "op": "core/mass-edit",
+        "engineConfig": {
+            "facets": [],
+            "mode": "row-based"
+        },
+        "columnName": "Address",
+        "expression": "value",
+        "edits": [
+            {
+                "from": [
+                    ""
+                ],
+                "fromBlank": true,
+                "fromError": false,
+                "to": "[NONE ON RECORD]"
+            }
+        ],
+        "description": "Mass edit cells in column Address"
+    }
 ]
