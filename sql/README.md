@@ -8,7 +8,7 @@ The production SQL scripts assume that a database named `CDPH` exists on the ins
 Populating the database with data can be done by:
 1. Export a CSV file from OpenRefine after applying the cleaning recipes.
 1. Execute the `OpenRefine Output Database Import.sql` script. Note that you must set the `@filename` variable within the script to the location of the OpenRefine CSV output file. If successful, 153,810 rows should be inserted - the same as the number of records from the original CSV file. If this is not the case, then something is wrong with your OpenRefine output file.
-1. Execute the `python/address-to-coordinates` script to look up and populate coordinates for all records with empty coordinates.
+1. Execute the `python/address-to-coordinates.py` script to look up and populate coordinates for all records with empty coordinates.
 1. Execute the `Schema.sql` script to create the database from the schema.
 1. Execute the `Populate Normalized Schema.sql` script to populate the database with data from the imported OpenRefine CSV output.
 
