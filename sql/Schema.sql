@@ -64,9 +64,9 @@ CREATE TABLE Business
 	,City NVARCHAR(250) NOT NULL
 	,[State] NCHAR(2) NOT NULL
 	,Zip NCHAR(5) NOT NULL
-	,Latitude FLOAT NULL
-	,Longitude FLOAT NULL
-	,[Location] NVARCHAR(100) NULL
+	,Latitude FLOAT NOT NULL
+	,Longitude FLOAT NOT NULL
+	,[Location] NVARCHAR(100) NOT NULL
 
 	,CONSTRAINT PK_Business PRIMARY KEY CLUSTERED (BusinessID)
 );
