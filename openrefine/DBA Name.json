@@ -9059,5 +9059,335 @@
       }
     ],
     "description": "Mass edit cells in column DBA Name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "License #",
+          "columnName": "License #",
+          "query": "^1333242$",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "DBA Name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "UNITED FIRST INTERNATIONAL LOUNGE T1,CONCOURSE C"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "UNITED FIRST INTERNATIONAL LOUNGE T1, CONCOURSE C"
+      }
+    ],
+    "description": "Mass edit cells in column DBA Name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "License #",
+          "columnName": "License #",
+          "query": "^7573$",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "DBA Name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "HAROLD'S CHICKEN"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "HAROLD'S CHICKEN SHACK"
+      }
+    ],
+    "description": "Mass edit cells in column DBA Name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "License #",
+          "columnName": "License #",
+          "query": "^1444218$",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "DBA Name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "PEPE'S TACOS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PEPE'S TACO"
+      }
+    ],
+    "description": "Mass edit cells in column DBA Name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "License #",
+          "columnName": "License #",
+          "query": "^1697283$",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "DBA Name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "RAM LITTLE LAMBS LEARNING CENTER"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "RAM LITTLE LAMBS LEARNING CENTER, INC."
+      }
+    ],
+    "description": "Mass edit cells in column DBA Name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "License #",
+          "columnName": "License #",
+          "query": "^1697283$",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "DBA Name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "RAM LITTLE LAMBS LEARNING CENTER INC"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "RAM LITTLE LAMBS LEARNING CENTER, INC."
+      }
+    ],
+    "description": "Mass edit cells in column DBA Name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "License #",
+          "columnName": "License #",
+          "query": "^1797814$",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "DBA Name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "SOUL VEGETERAN EAST INCORPORATED"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SOUL VEGETERIAN EAST INCORPORATED"
+      }
+    ],
+    "description": "Mass edit cells in column DBA Name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "License #",
+          "columnName": "License #",
+          "query": "^1869321$",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "DBA Name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "KINGS SOUL FOOD AND BESS COOKIES"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "KING'S SOUL FOOD & BESS COOKIES"
+      }
+    ],
+    "description": "Mass edit cells in column DBA Name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "License #",
+          "columnName": "License #",
+          "query": "^1932251$",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "DBA Name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "MCCORNICK PLACE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MCCORMICK PLACE"
+      }
+    ],
+    "description": "Mass edit cells in column DBA Name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "License #",
+          "columnName": "License #",
+          "query": "^2138503$",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "DBA Name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "OGDEN MARARTHON"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "OGDEN MARATHON"
+      }
+    ],
+    "description": "Mass edit cells in column DBA Name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "License #",
+          "columnName": "License #",
+          "query": "^2290148$",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "DBA Name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "MRS. GREEN'S OF WEBSTER"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MRS. GREEN'S OF WEBSTER, INC."
+      }
+    ],
+    "description": "Mass edit cells in column DBA Name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "License #",
+          "columnName": "License #",
+          "query": "^2290148$",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "DBA Name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "MRS GREEN'S OF WEBSTER, INC."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MRS. GREEN'S OF WEBSTER, INC."
+      }
+    ],
+    "description": "Mass edit cells in column DBA Name"
   }
 ]
