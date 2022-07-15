@@ -1,3 +1,5 @@
+USE CDPH;
+
 SELECT DISTINCT License
 	,[Location]
 	,DBA_Name
