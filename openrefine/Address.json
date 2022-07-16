@@ -107,7 +107,7 @@
           "type": "text",
           "name": "DBA Name",
           "columnName": "DBA Name",
-          "query": "ILLINOIS SPORTSERVICE, INC.",
+          "query": "ILLINOIS SPORTSERVICE, INC.",
           "mode": "text",
           "caseSensitive": false,
           "invert": false
@@ -146,7 +146,7 @@
           "type": "text",
           "name": "DBA Name",
           "columnName": "DBA Name",
-          "query": "ILLINOIS SPORTSERVICE, INC.",
+          "query": "ILLINOIS SPORTSERVICE, INC.",
           "mode": "text",
           "caseSensitive": false,
           "invert": false
@@ -254,7 +254,7 @@
           "type": "text",
           "name": "DBA Name",
           "columnName": "DBA Name",
-          "query": "BALKAN RESTAURANT CORP.",
+          "query": "BALKAN RESTAURANT CORP.",
           "mode": "text",
           "caseSensitive": false,
           "invert": false
@@ -314,7 +314,7 @@
           "type": "text",
           "name": "DBA Name",
           "columnName": "DBA Name",
-          "query": "THUNDERBIRD CATERING CO.",
+          "query": "THUNDERBIRD CATERING CO.",
           "mode": "text",
           "caseSensitive": false,
           "invert": false

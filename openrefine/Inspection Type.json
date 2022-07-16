@@ -43,7 +43,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "No Entry"
+        "to": "No Entry"
       },
       {
         "from": [
@@ -72,7 +72,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Special Task Force"
+        "to": "Special Task Force"
       },
       {
         "from": [
@@ -81,7 +81,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Kids Cafe"
+        "to": "Kids Cafe"
       },
       {
         "from": [
@@ -99,7 +99,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Fire Complaint"
+        "to": "Fire Complaint"
       },
       {
         "from": [
@@ -117,7 +117,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Out of Business"
+        "to": "Out of Business"
       }
     ],
     "description": "Mass edit cells in column Inspection Type"
@@ -139,7 +139,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Task Force"
+        "to": "Task Force"
       },
       {
         "from": [
@@ -178,7 +178,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Task Force"
+        "to": "Task Force"
       }
     ],
     "description": "Mass edit cells in column Inspection Type"
@@ -215,21 +215,21 @@
     "edits": [
       {
         "from": [
-          "Out of Business",
+          "Out of Business",
           "out ofbusiness"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Out of Business"
+        "to": "Out of Business"
       },
       {
         "from": [
-          "Task Force",
+          "Task Force",
           "TASKFORCE"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Task Force"
+        "to": "Task Force"
       }
     ],
     "description": "Mass edit cells in column Inspection Type"
@@ -252,7 +252,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Task Force"
+        "to": "Task Force"
       },
       {
         "from": [
@@ -270,7 +270,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Canvass Re-Inspection"
+        "to": "Canvass Re-Inspection"
       },
       {
         "from": [
@@ -279,7 +279,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Suspected Food Poisoning"
+        "to": "Suspected Food Poisoning"
       },
       {
         "from": [
@@ -297,7 +297,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "License Re-Inspection"
+        "to": "License Re-Inspection"
       }
     ],
     "description": "Mass edit cells in column Inspection Type"
@@ -313,12 +313,12 @@
     "edits": [
       {
         "from": [
-          "Task Force",
+          "Task Force",
           "Task Force"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Task Force"
+        "to": "Task Force"
       }
     ],
     "description": "Mass edit cells in column Inspection Type"
@@ -334,31 +334,31 @@
     "edits": [
       {
         "from": [
-          "License Re-Inspection",
+          "License Re-Inspection",
           "LICENSE RENEWAL FOR DAYCARE",
           "LICENSE RENEWAL INSPECTION FOR DAYCARE"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "License Re-Inspection"
+        "to": "License Re-Inspection"
       },
       {
         "from": [
-          "Fire Complaint",
+          "Fire Complaint",
           "FIRE/COMPLAIN"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Fire Complaint"
+        "to": "Fire Complaint"
       },
       {
         "from": [
-          "Task Force",
+          "Task Force",
           "Task Force for liquor 1474"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Task Force"
+        "to": "Task Force"
       },
       {
         "from": [
@@ -367,7 +367,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Short Form Complaint"
+        "to": "Short Form Complaint"
       }
     ],
     "description": "Mass edit cells in column Inspection Type"
@@ -663,7 +663,7 @@
     "edits": [
       {
         "from": [
-          "Fire Complaint"
+          "Fire Complaint"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -1143,11 +1143,11 @@
     "edits": [
       {
         "from": [
-          "Special Task Force"
+          "Special Task Force"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Task Force"
+        "to": "Task Force"
       }
     ],
     "description": "Mass edit cells in column Inspection Type"
@@ -1163,7 +1163,7 @@
     "edits": [
       {
         "from": [
-          "Task Force"
+          "Task Force"
         ],
         "fromBlank": false,
         "fromError": false,

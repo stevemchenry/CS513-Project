@@ -55,7 +55,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Grocery / Restaurant"
+        "to": "Grocery / Restaurant"
       },
       {
         "from": [
@@ -64,7 +64,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Convenience Store"
+        "to": "Convenience Store"
       },
       {
         "from": [
@@ -73,7 +73,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Children's Services Facility"
+        "to": "Children's Services Facility"
       },
       {
         "from": [
@@ -91,7 +91,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Gas Station"
+        "to": "Gas Station"
       },
       {
         "from": [
@@ -100,7 +100,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Grocery Store / Gas Station"
+        "to": "Grocery Store / Gas Station"
       },
       {
         "from": [
@@ -109,7 +109,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Kids Cafe"
+        "to": "Kids Cafe"
       }
     ],
     "description": "Mass edit cells in column Facility Type"
@@ -131,7 +131,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "1023 Childern's Services Facility"
+        "to": "1023 Childern's Services Facility"
       },
       {
         "from": [
@@ -140,7 +140,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Grocery Store / Restaurant"
+        "to": "Grocery Store / Restaurant"
       },
       {
         "from": [
@@ -149,7 +149,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Gas Station / Store"
+        "to": "Gas Station / Store"
       },
       {
         "from": [
@@ -158,7 +158,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Mobile Frozen Desserts Vendor"
+        "to": "Mobile Frozen Desserts Vendor"
       },
       {
         "from": [
@@ -167,7 +167,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Long Term Care Facility"
+        "to": "Long Term Care Facility"
       },
       {
         "from": [
@@ -176,7 +176,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Church / Special Events"
+        "to": "Church / Special Events"
       },
       {
         "from": [
@@ -185,7 +185,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Assisted Living"
+        "to": "Assisted Living"
       },
       {
         "from": [
@@ -194,7 +194,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Gas Station / Grocery"
+        "to": "Gas Station / Grocery"
       },
       {
         "from": [
@@ -203,7 +203,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Banquet Room"
+        "to": "Banquet Room"
       },
       {
         "from": [
@@ -212,7 +212,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "1023 Children's Services Facility"
+        "to": "1023 Children's Services Facility"
       },
       {
         "from": [
@@ -221,7 +221,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Bakery / Restaurant"
+        "to": "Bakery / Restaurant"
       },
       {
         "from": [
@@ -230,7 +230,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "1023 Childern's Services Facility"
+        "to": "1023 Childern's Services Facility"
       },
       {
         "from": [
@@ -239,7 +239,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Mobile Frozen Desserts Dispenser-non-Motorized"
+        "to": "Mobile Frozen Desserts Dispenser-non-Motorized"
       },
       {
         "from": [
@@ -257,7 +257,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Childern's Services Facility"
+        "to": "Childern's Services Facility"
       },
       {
         "from": [
@@ -266,7 +266,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "1023 Childern's Services Facility"
+        "to": "1023 Childern's Services Facility"
       },
       {
         "from": [
@@ -284,7 +284,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Mobile Desserts Vendor"
+        "to": "Mobile Desserts Vendor"
       },
       {
         "from": [
@@ -293,7 +293,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Charter School Cafeteria"
+        "to": "Charter School Cafeteria"
       },
       {
         "from": [
@@ -320,7 +320,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Daycare 1023"
+        "to": "Daycare 1023"
       },
       {
         "from": [
@@ -347,7 +347,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Long Term Care"
+        "to": "Long Term Care"
       }
     ],
     "description": "Mass edit cells in column Facility Type"
@@ -368,16 +368,16 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Frozen Desserts Dispenser-non-Motorized"
+        "to": "Frozen Desserts Dispenser-non-Motorized"
       },
       {
         "from": [
           "Grocery Store/gas Station",
-          "Grocery Store / Gas Station"
+          "Grocery Store / Gas Station"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Grocery Store / Gas Station"
+        "to": "Grocery Store / Gas Station"
       },
       {
         "from": [
@@ -395,16 +395,16 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Daycare Combo 1586"
+        "to": "Daycare Combo 1586"
       },
       {
         "from": [
           "Grocery/restaurant",
-          "Grocery / Restaurant"
+          "Grocery / Restaurant"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Grocery / Restaurant"
+        "to": "Grocery / Restaurant"
       }
     ],
     "description": "Mass edit cells in column Facility Type"
@@ -421,7 +421,7 @@
       {
         "from": [
           "Daycare",
-          "Daycare 1023",
+          "Daycare 1023",
           "Day Care 2-14",
           "Daycare 1586"
         ],
@@ -431,14 +431,14 @@
       },
       {
         "from": [
-          "Children's Services Facility",
-          "1023 Childern's Services Facility",
-          "1023 Children's Services Facility",
-          "Childern's Services Facility"
+          "Children's Services Facility",
+          "1023 Childern's Services Facility",
+          "1023 Children's Services Facility",
+          "Childern's Services Facility"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Children's Services Facility"
+        "to": "Children's Services Facility"
       },
       {
         "from": [
@@ -451,12 +451,12 @@
       },
       {
         "from": [
-          "Long Term Care",
-          "Long Term Care Facility"
+          "Long Term Care",
+          "Long Term Care Facility"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Long Term Care"
+        "to": "Long Term Care"
       },
       {
         "from": [
@@ -465,7 +465,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Movie Theater"
+        "to": "Movie Theater"
       },
       {
         "from": [
@@ -474,7 +474,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Restaurant / Grocery Store"
+        "to": "Restaurant / Grocery Store"
       },
       {
         "from": [
@@ -492,7 +492,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Nursing Home"
+        "to": "Nursing Home"
       },
       {
         "from": [
@@ -501,25 +501,25 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Mobile Prepared Food Vendor"
+        "to": "Mobile Prepared Food Vendor"
       },
       {
         "from": [
-          "Daycare Combo 1586",
+          "Daycare Combo 1586",
           "Daycare Combo"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Daycare Combo"
+        "to": "Daycare Combo"
       },
       {
         "from": [
-          "Gas Station / Store",
+          "Gas Station / Store",
           "Gas Station/store Grocery"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Gas Station / Grocery Store"
+        "to": "Gas Station / Grocery Store"
       },
       {
         "from": [
@@ -532,12 +532,12 @@
       },
       {
         "from": [
-          "Convenience Store",
+          "Convenience Store",
           "Convnience Store"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Convenience Store"
+        "to": "Convenience Store"
       },
       {
         "from": [
@@ -546,7 +546,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Mobile Food"
+        "to": "Mobile Food"
       }
     ],
     "description": "Mass edit cells in column Facility Type"
@@ -576,7 +576,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Shared Kitchen User (Long Term)"
+        "to": "Shared Kitchen User (Long Term)"
       }
     ],
     "description": "Mass edit cells in column Facility Type"
@@ -692,7 +692,7 @@
     "edits": [
       {
         "from": [
-          "Assisted Living"
+          "Assisted Living"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -812,7 +812,7 @@
     "edits": [
       {
         "from": [
-          "Banquet Room"
+          "Banquet Room"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -1292,7 +1292,7 @@
     "edits": [
       {
         "from": [
-          "Convenience Store"
+          "Convenience Store"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2132,7 +2132,7 @@
     "edits": [
       {
         "from": [
-          "Long Term Care"
+          "Long Term Care"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2232,7 +2232,7 @@
     "edits": [
       {
         "from": [
-          "Mobile Frozen Desserts Dispenser-non-Motorized"
+          "Mobile Frozen Desserts Dispenser-non-Motorized"
         ],
         "fromBlank": false,
         "fromError": false,
