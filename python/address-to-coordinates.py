@@ -14,7 +14,7 @@ connection = pymssql.connect("localhost")
 connection2 = pymssql.connect("localhost", autocommit=True)
 
 cursor = connection.cursor(as_dict=True)
-cursor.execute("USE CDPH; SELECT Distinct [Address], City, State, Zip, [Location] FROM DataOpenRefine WHERE [Location] IS NULL;")
+cursor.execute("USE CDPH; SELECT DISTINCT [Address], City, State, Zip, [Location] FROM DataOpenRefine WHERE [Location] IS NULL;")
 
 cursor_update = connection2.cursor()
 
