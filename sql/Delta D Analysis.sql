@@ -1,3 +1,9 @@
+USE CDPH;
+
+-- Throughout this script, values from the raw data are explicitly collated
+-- as case-sensitive, accent-sensitive to avoid underreporting by databases
+-- or columns configured with case-insensitive collations
+
 -- DBA Name field number of merged values
 WITH DataRaw_DBA_Name AS
 (
