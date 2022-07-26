@@ -20,4 +20,4 @@ This folder contains production SQL queries. The only prerequisite are:
 ### sql-scratch-queries/
 This folder contains "scratch" queries used primarily for exploration and analysis of the loaded dataset - either in its pre-normalization form in the `DataOpenRefine` staging/analysis table, or in its post-normalization form. These are queries that are helpful in aiding analysis and validation and are either frequently reused or lengthy to the point that they are inconvenient to re-write.
 
-The quries in this folder have the same prerequisites as those in the `sql/` folder.
+The queries in this folder have the same prerequisites as those in the `sql/` folder.
