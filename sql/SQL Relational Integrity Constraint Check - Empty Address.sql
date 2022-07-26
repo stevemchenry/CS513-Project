@@ -8,5 +8,5 @@ SELECT DISTINCT License
 	,[State]
 	,Zip
 FROM DataOpenRefine
-WHERE City IS NULL
+WHERE [Address] IS NULL
 ORDER BY License

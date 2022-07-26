@@ -9,6 +9,9 @@ This repository is organized into folders containing different aspects of the pr
 ### openrefine/
 This folder contains the production OpenRefine recipes for the project. Until submission, each column of the dataset has a separate recipe file so that columns may be more easily worked with in a singular fashion to prevent inadvertent and undesired modifications to other columns.
 
+### python/
+This folder contains production Python scripts for the project.
+
 ### sql/
 This folder contains production SQL queries. The only prerequisite are:
 1. Microsoft SQL Server 2017 (or greater) as the database engine

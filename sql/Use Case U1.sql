@@ -9,9 +9,9 @@ USE CDPH;
 -- Each parameter may individually be set to NULL so that the query does not
 -- include that parameter among its filtering criteria.
 
-DECLARE @dateBegin DATE = '2014-01-01';	-- Demonstration value: From nspections performed on January 01, 2014...
-DECLARE @dateEnd DATE = '2016-01-01';	-- Demonstration value: ...Until inspections performed on January 01, 2016
-DECLARE @businessName NVARCHAR(250) = N'Walgreens';	-- Demonstration value: All businesess whose name (or alias) contains "Walgreens"
+DECLARE @dateBegin DATE = '2012-01-01';	-- Demonstration value: From inspections performed on January 01, 2012...
+DECLARE @dateEnd DATE = '2017-01-01';	-- Demonstration value: ...Until inspections performed on January 01, 2017
+DECLARE @businessName NVARCHAR(250) = N'MCDONALD''S';	-- Demonstration value: All businesses whose name (or alias) contains "MCDONALD'S"
 DECLARE @license INT = NULL	-- Demonstration value: NULL; not populated by user - no filter on license
 DECLARE @results NVARCHAR(MAX) = N'Pass|Pass w/ Conditions'	-- Demonstration value: "Pass" or "Pass w/ Conditions" - a passing result
 DECLARE @violations NVARCHAR(MAX) = N'1|2|3|5|8|9|11|12|22|33';	-- Demonstration value: An arbitrary selection of multiple codes
