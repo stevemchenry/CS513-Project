@@ -1,0 +1,10882 @@
+[
+	{
+		"Inspection_ID": "586115",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.812077"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.670246"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.812077, -87.670246)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1321815",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7637531"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.64879144207492"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7637531, -87.64879144207492)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1955318",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7637531"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.64879144207492"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7637531, -87.64879144207492)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "233535",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.77377165"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.59416360499378"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.77377165, -87.59416360499378)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "679321",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.889814"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625789"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.889814, -87.625789)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1307400",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1588356",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "215299",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8878145"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.7887615"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8878145, -87.7887615)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "598375",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.849238"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.68696"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.849238, -87.68696)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1321766",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.787440149999995"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.70770649685437"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.787440149999995, -87.70770649685437)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1989406",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.62270017242859"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.56191133579789"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.62270017242859, -87.56191133579789)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1227264",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.787440149999995"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.70770649685437"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.787440149999995, -87.70770649685437)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1386512",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.77377165"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.59416360499378"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.77377165, -87.59416360499378)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1657227",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "67865",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7637531"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.64879144207492"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7637531, -87.64879144207492)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "634580",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.77368583716522"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.1702934680642"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.77368583716522, -88.1702934680642)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1230194",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7418337755102"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.81942151020408"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7418337755102, -87.81942151020408)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1966841",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.88673"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.616765"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.88673, -87.616765)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "567377",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.88673"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.616765"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.88673, -87.616765)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1290245",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.827649"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.677163"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.827649, -87.677163)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1395384",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7781125"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.74643860098467"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7781125, -87.74643860098467)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1763293",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8043798"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.7204015"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8043798, -87.7204015)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "233846",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.73122433206936"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.69831961740769"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.73122433206936, -87.69831961740769)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "635002",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.48348542857143"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.810493"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.48348542857143, -87.810493)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1496849",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.862240099999994"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.69514484959751"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.862240099999994, -87.69514484959751)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2069448",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "579776",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.800521"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.65653772059315"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.800521, -87.65653772059315)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1386148",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.804767"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625331"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.804767, -87.625331)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1532483",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1971023",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7784883"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6119874"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7784883, -87.6119874)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "428993",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9298021"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.7088574"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9298021, -87.7088574)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1234520",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.0315733921915"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.97294670228284"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.0315733921915, -87.97294670228284)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1497781",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.773881599999996"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6012432254135"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.773881599999996, -87.6012432254135)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1981958",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.00273202468276"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.1025579837772"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.00273202468276, -88.1025579837772)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1387631",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.62270017242859"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.56191133579789"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.62270017242859, -87.56191133579789)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1948310",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.855816"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.646282"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.855816, -87.646282)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "80285",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9772969"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6592044"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9772969, -87.6592044)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "598555",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.849238"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.68696"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.849238, -87.68696)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1396026",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1946659",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.869664"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.632747"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.869664, -87.632747)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "579227",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.80972665"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.67191524902704"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.80972665, -87.67191524902704)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1150560",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1515885",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.787440149999995"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.70770649685437"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.787440149999995, -87.70770649685437)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1770854",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2009394",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.01113000390448"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.07992132198142"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.01113000390448, -88.07992132198142)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "529209",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.798643"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625082"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.798643, -87.625082)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1228225",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7959686"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.64229692020365"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7959686, -87.64229692020365)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1335447",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9704264"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.9053663"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9704264, -87.9053663)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1763706",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.862240099999994"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.69514484959751"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.862240099999994, -87.69514484959751)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "413974",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8789942"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.8436412"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8789942, -87.8436412)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1229732",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.541278428571424"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.71727342857143"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.541278428571424, -87.71727342857143)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1537487",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.866197"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.671505"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.866197, -87.671505)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1976794",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.02167755"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.76745199369101"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.02167755, -87.76745199369101)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "580232",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.876632"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.856711"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.876632, -87.856711)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1076250",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7637531"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.64879144207492"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7637531, -87.64879144207492)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1522899",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.784042"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.688296"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.784042, -87.688296)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2064655",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.00273202468276"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.1025579837772"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.00273202468276, -88.1025579837772)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "414120",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7385252"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6952654"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7385252, -87.6952654)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1285562",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1497500",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7959686"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.64229692020365"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7959686, -87.64229692020365)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1751619",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.90766068556868"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.7861069569039"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.90766068556868, -87.7861069569039)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "529291",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.798643"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625082"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.798643, -87.625082)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1096400",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.527586"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.656494"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.527586, -87.656494)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1566248",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9639298644981"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.83680615565932"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9639298644981, -87.83680615565932)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2059448",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9704264"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.9053663"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9704264, -87.9053663)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "67947",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7637531"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.64879144207492"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7637531, -87.64879144207492)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "657362",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.77377165"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.59416360499378"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.77377165, -87.59416360499378)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1307736",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7637531"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.64879144207492"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7637531, -87.64879144207492)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1546327",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1989537",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.6920052"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6653395395011"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.6920052, -87.6653395395011)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "531545",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1151752",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.827649"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.677163"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.827649, -87.677163)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1566818",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.862240099999994"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.69514484959751"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.862240099999994, -87.69514484959751)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "233328",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.656517"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.589325"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.656517, -87.589325)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1307258",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1447784",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.889814"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625789"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.889814, -87.625789)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1751919",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.992978"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.025932"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.992978, -88.025932)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1072219",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7784883"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6119874"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7784883, -87.6119874)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1326458",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1746323",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7784883"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6119874"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7784883, -87.6119874)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1151172",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.6920052"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6653395395011"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.6920052, -87.6653395395011)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1516170",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2078297",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.807645449999995"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6968865910955"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.807645449999995, -87.6968865910955)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "297244",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.6899779"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.7974139"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.6899779, -87.7974139)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1319753",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7784883"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6119874"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7784883, -87.6119874)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1561892",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9704264"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.9053663"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9704264, -87.9053663)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2051025",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.00436070419764"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.10357002755262"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.00436070419764, -88.10357002755262)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "539438",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9704264"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.9053663"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9704264, -87.9053663)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "920396",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1305295",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.784042"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.688296"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.784042, -87.688296)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1735136",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.784042"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.688296"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.784042, -87.688296)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1982709",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.033967"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.713948"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.033967, -87.713948)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "537795",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7308897"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.5512814"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7308897, -87.5512814)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1307673",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1955294",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7959686"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.64229692020365"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7959686, -87.64229692020365)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "233524",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.773881599999996"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6012432254135"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.773881599999996, -87.6012432254135)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "659736",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9040959"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.672408"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9040959, -87.672408)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1307310",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.79329655"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.68836460924437"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.79329655, -87.68836460924437)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1559972",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9704264"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.9053663"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9704264, -87.9053663)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2064565",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.00273202468276"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.1025579837772"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.00273202468276, -88.1025579837772)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "98355",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9534205"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.717306351211"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9534205, -87.717306351211)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "580245",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.98087324531588"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.894371637139"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.98087324531588, -87.894371637139)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1321724",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.849238"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.68696"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.849238, -87.68696)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1975450",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7781125"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.74643860098467"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7781125, -87.74643860098467)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "660105",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.509299"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.687697"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.509299, -87.687697)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1386498",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7784883"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6119874"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7784883, -87.6119874)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1657223",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "67840",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.787440149999995"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.70770649685437"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.787440149999995, -87.70770649685437)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "634511",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.757292841293435"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.14833713406418"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.757292841293435, -88.14833713406418)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1230153",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.559579"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.77865"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.559579, -87.77865)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1770599",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.051035549999995"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.83778490931326"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.051035549999995, -87.83778490931326)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "531267",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7637531"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.64879144207492"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7637531, -87.64879144207492)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1290220",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.80972665"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.67191524902704"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.80972665, -87.67191524902704)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1375608",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1763245",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.743896"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.662953"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.743896, -87.662953)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "233751",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.66697419621053"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.72370049621463"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.66697419621053, -87.72370049621463)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "531607",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1459620",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.832145249999996"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.62724140056953"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.832145249999996, -87.62724140056953)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2049902",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8674021"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6325503"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8674021, -87.6325503)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "569308",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.889814"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625789"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.889814, -87.625789)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1386146",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.804767"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625331"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.804767, -87.625331)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1532411",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.790551"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.689734"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.790551, -87.689734)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1961215",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.656517"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.589325"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.656517, -87.589325)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "428391",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.930602"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.651082"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.930602, -87.651082)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1234424",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.509337517114595"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.68322031973769"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.509337517114595, -87.68322031973769)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1497766",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.77377165"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.59416360499378"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.77377165, -87.59416360499378)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1976467",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.051035549999995"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.83778490931326"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.051035549999995, -87.83778490931326)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1354093",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.869664"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.632747"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.869664, -87.632747)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1632682",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.6920052"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6653395395011"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.6920052, -87.6653395395011)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "555353",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.6920052"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6653395395011"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.6920052, -87.6653395395011)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1376165",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7781125"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.74643860098467"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7781125, -87.74643860098467)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1946650",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "577788",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.79329655"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.68836460924437"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.79329655, -87.68836460924437)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1150559",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1453938",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.849238"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.68696"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.849238, -87.68696)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1770742",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2009387",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.90766068556868"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.7861069569039"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.90766068556868, -87.7861069569039)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "491811",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.6899779"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.7974139"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.6899779, -87.7974139)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1307669",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1955280",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7959686"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.64229692020365"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7959686, -87.64229692020365)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "659733",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.840126991723665"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.75159099864902"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.840126991723665, -87.75159099864902)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1307307",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.787440149999995"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.70770649685437"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.787440149999995, -87.70770649685437)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1537962",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.19701863018545"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.86136613704373"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.19701863018545, -87.86136613704373)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1996054",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.992978"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.025932"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.992978, -88.025932)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "98335",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9534205"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.717306351211"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9534205, -87.717306351211)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "580238",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.876632"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.856711"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.876632, -87.856711)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1301010",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7781125"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.74643860098467"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7781125, -87.74643860098467)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1591694",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.733798"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.560136"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.733798, -87.560136)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "577312",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.790551"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.689734"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.790551, -87.689734)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1386486",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.77377165"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.59416360499378"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.77377165, -87.59416360499378)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1631260",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.832145249999996"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.62724140056953"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.832145249999996, -87.62724140056953)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2064921",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.00273202468276"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.1025579837772"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.00273202468276, -88.1025579837772)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "67788",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.79329655"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.68836460924437"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.79329655, -87.68836460924437)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "634504",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.67049685714286"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.67424771428571"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.67049685714286, -87.67424771428571)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1214997",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.024692194290544"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.18133565476023"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.024692194290544, -88.18133565476023)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1770598",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "531220",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1239213",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.82377604279077"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.75732040929756"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.82377604279077, -87.75732040929756)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1375601",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1734367",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2069819",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "176577",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.979578"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.846006"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.979578, -87.846006)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "531585",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.804767"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625331"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.804767, -87.625331)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1335965",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1983163",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8043798"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.7204015"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8043798, -87.7204015)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "531621",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1372664",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.88673"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.616765"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.88673, -87.616765)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1532362",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.6920052"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6653395395011"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.6920052, -87.6653395395011)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1932942",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "285224",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1227250",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.784042"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.688296"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.784042, -87.688296)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1418827",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.882666"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.638634"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.882666, -87.638634)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1976442",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.869664"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.632747"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.869664, -87.632747)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1353937",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.869664"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.632747"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.869664, -87.632747)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1560031",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9639298644981"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.83680615565932"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9639298644981, -87.83680615565932)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "537645",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.656517"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.589325"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.656517, -87.589325)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1319801",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.77377165"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.59416360499378"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.77377165, -87.59416360499378)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1946575",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.869664"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.632747"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.869664, -87.632747)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "577698",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7385252"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6952654"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7385252, -87.6952654)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1150558",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1424422",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9704264"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.9053663"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9704264, -87.9053663)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1746310",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2009305",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.804767"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625331"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.804767, -87.625331)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "679519",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.0027544"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.88384271413511"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.0027544, -87.88384271413511)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1493764",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.992978"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.025932"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.992978, -88.025932)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1955357",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "347309",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.876632"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.856711"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.876632, -87.856711)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1098829",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.02167755"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.76745199369101"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.02167755, -87.76745199369101)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1307419",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7637531"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.64879144207492"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7637531, -87.64879144207492)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1734651",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.707888"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.807084"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.707888, -87.807084)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "251137",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9772969"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6592044"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9772969, -87.6592044)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "659932",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.028775383556834"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.19139416943105"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.028775383556834, -88.19139416943105)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1383483",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2009714",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.804767"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625331"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.804767, -87.625331)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "68148",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.784042"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.688296"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.784042, -87.688296)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1227298",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.82377604279077"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.75732040929756"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.82377604279077, -87.75732040929756)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1386530",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7784883"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6119874"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7784883, -87.6119874)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1657234",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "250408",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.66697419621053"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.72370049621463"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.66697419621053, -87.72370049621463)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "679868",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.64205961928725"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.54056407792932"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.64205961928725, -87.54056407792932)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1418342",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.95982853265069"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.08150984343689"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.95982853265069, -88.08150984343689)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1990116",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.790551"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.689734"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.790551, -87.689734)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "579678",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1290252",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7959686"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.64229692020365"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7959686, -87.64229692020365)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1395446",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.866197"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.671505"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.866197, -87.671505)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1937733",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8674021"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6325503"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8674021, -87.6325503)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "419324",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.798643"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625082"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.798643, -87.625082)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "920318",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.756534"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.592932"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.756534, -87.592932)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1516357",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7385252"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6952654"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7385252, -87.6952654)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1107057",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9772969"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6592044"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9772969, -87.6592044)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1386158",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.804767"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625331"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.804767, -87.625331)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1561704",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1982109",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.79329655"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.68836460924437"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.79329655, -87.68836460924437)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "579541",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1234523",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.0315733921915"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.97294670228284"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.0315733921915, -87.97294670228284)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1575717",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.76496494496984"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6552220798002"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.76496494496984, -87.6552220798002)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1401835",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.804767"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625331"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.804767, -87.625331)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1977124",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9245121"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.65130369727859"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9245121, -87.65130369727859)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "158419",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.800521"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.65653772059315"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.800521, -87.65653772059315)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1150344",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.6920052"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6653395395011"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.6920052, -87.6653395395011)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1453520",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.869664"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.632747"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.869664, -87.632747)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1995362",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.832145249999996"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.62724140056953"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.832145249999996, -87.62724140056953)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "158272",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.812077"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.670246"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.812077, -87.670246)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "659343",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8789942"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.8436412"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8789942, -87.8436412)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1227807",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.804767"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625331"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.804767, -87.625331)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1537601",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.832145249999996"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.62724140056953"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.832145249999996, -87.62724140056953)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1932710",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2060169",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.885092"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.638294"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.885092, -87.638294)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "525301",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.969415"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.660065"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.969415, -87.660065)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1154299",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.804767"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625331"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.804767, -87.625331)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1335360",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.790551"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.689734"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.790551, -87.689734)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1734666",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.969078"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.861746"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.969078, -87.861746)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "197368",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.88673"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.616765"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.88673, -87.616765)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1150876",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1515291",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.954089"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.649244"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.954089, -87.649244)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1976769",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.00279861082696"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.0962071165367"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.00279861082696, -88.0962071165367)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "543260",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.6920052"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6653395395011"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.6920052, -87.6653395395011)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1076245",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7637531"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.64879144207492"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7637531, -87.64879144207492)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1497934",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.827649"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.677163"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.827649, -87.677163)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2064639",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.735585"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.561434"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.735585, -87.561434)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "317269",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7637531"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.64879144207492"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7637531, -87.64879144207492)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1285554",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.77377165"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.59416360499378"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.77377165, -87.59416360499378)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1497492",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.80972665"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.67191524902704"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.80972665, -87.67191524902704)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1665235",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "529287",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7959686"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.64229692020365"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7959686, -87.64229692020365)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1096390",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.527586"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.656494"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.527586, -87.656494)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1523106",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.784042"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.688296"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.784042, -87.688296)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2028367",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "657344",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.77377165"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.59416360499378"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.77377165, -87.59416360499378)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1307732",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1546247",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.90766068556868"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.7861069569039"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.90766068556868, -87.7861069569039)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1955241",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.800521"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.65653772059315"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.800521, -87.65653772059315)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "164427",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.6920052"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6653395395011"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.6920052, -87.6653395395011)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1286036",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9704264"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.9053663"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9704264, -87.9053663)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1435160",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.849238"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.68696"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.849238, -87.68696)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1632217",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.849238"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.68696"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.849238, -87.68696)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "531443",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1151733",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.798643"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625082"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.798643, -87.625082)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1566726",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9639298644981"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.83680615565932"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9639298644981, -87.83680615565932)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "670733",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.865175"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.780736"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.865175, -87.780736)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1321230",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.86557779251258"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.83948128990902"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.86557779251258, -87.83948128990902)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1633072",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7385252"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6952654"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7385252, -87.6952654)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "277018",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.572159"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.645835"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.572159, -87.645835)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1279258",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.862240099999994"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.69514484959751"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.862240099999994, -87.69514484959751)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1522821",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.01113000390448"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.07992132198142"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.01113000390448, -88.07992132198142)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2050912",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.877247"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.856215"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.877247, -87.856215)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1114731",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.832145249999996"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.62724140056953"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.832145249999996, -87.62724140056953)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1473431",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.00273202468276"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.1025579837772"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.00273202468276, -88.1025579837772)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2060059",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.27081974376812"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.86715692969804"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.27081974376812, -87.86715692969804)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "250960",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.827649"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.677163"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.827649, -87.677163)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "920387",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1305212",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.77377165"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.59416360499378"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.77377165, -87.59416360499378)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1584155",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.88673"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.616765"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.88673, -87.616765)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1982677",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1115078",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1493775",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.62270017242859"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.56191133579789"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.62270017242859, -87.56191133579789)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1967168",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.773881599999996"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6012432254135"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.773881599999996, -87.6012432254135)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "347310",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.876632"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.856711"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.876632, -87.856711)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1098842",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.02167755"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.76745199369101"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.02167755, -87.76745199369101)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1307421",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1734653",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.804767"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625331"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.804767, -87.625331)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "401418",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "670838",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9704264"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.9053663"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9704264, -87.9053663)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1493580",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.992978"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.025932"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.992978, -88.025932)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2009741",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9525763"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.8455584"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9525763, -87.8455584)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "154225",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9245121"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.65130369727859"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9245121, -87.65130369727859)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1227299",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.82377604279077"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.75732040929756"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.82377604279077, -87.75732040929756)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1467626",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.869664"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.632747"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.869664, -87.632747)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1657235",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "250459",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.66697419621053"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.72370049621463"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.66697419621053, -87.72370049621463)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "679872",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.865175"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.780736"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.865175, -87.780736)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1496915",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7959686"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.64229692020365"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7959686, -87.64229692020365)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1990142",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.00273202468276"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.1025579837772"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.00273202468276, -88.1025579837772)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "657310",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7784883"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6119874"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7784883, -87.6119874)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1307687",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1490670",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7385252"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6952654"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7385252, -87.6952654)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1948691",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "74471",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.804767"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625331"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.804767, -87.625331)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1152140",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.784042"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.688296"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.784042, -87.688296)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1395582",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.6920052"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6653395395011"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.6920052, -87.6653395395011)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1578427",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8674021"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6325503"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8674021, -87.6325503)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "531430",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1151604",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.862240099999994"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.69514484959751"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.862240099999994, -87.69514484959751)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1547148",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.899391"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.9404445"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.899391, -87.9404445)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "604471",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.978288"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.84315"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.978288, -87.84315)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1234525",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.0315733921915"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.97294670228284"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.0315733921915, -87.97294670228284)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1589030",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1401842",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.804767"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625331"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.804767, -87.625331)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1977163",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.047065"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6789663"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.047065, -87.6789663)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "158422",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.831035"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.624185"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.831035, -87.624185)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1234734",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8043798"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.7204015"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8043798, -87.7204015)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1453533",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.869664"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.632747"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.869664, -87.632747)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2010136",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.992978"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.025932"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.992978, -88.025932)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "250878",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.800521"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.65653772059315"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.800521, -87.65653772059315)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "920356",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1227809",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.804767"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625331"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.804767, -87.625331)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1537662",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.02167755"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.76745199369101"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.02167755, -87.76745199369101)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1946937",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9704264"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.9053663"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9704264, -87.9053663)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2064263",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.877247"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.856215"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.877247, -87.856215)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1115079",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1513262",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.656517"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.589325"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.656517, -87.589325)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1970230",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.00273202468276"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.1025579837772"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.00273202468276, -88.1025579837772)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "422252",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1154297",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.804767"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625331"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.804767, -87.625331)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1307451",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1734665",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.804767"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625331"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.804767, -87.625331)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "543252",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.6920052"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6653395395011"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.6920052, -87.6653395395011)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1076237",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7637531"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.64879144207492"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7637531, -87.64879144207492)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1497873",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.773881599999996"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6012432254135"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.773881599999996, -87.6012432254135)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2009745",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9525763"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.8455584"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9525763, -87.8455584)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "234137",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9772969"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6592044"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9772969, -87.6592044)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1285444",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.616016"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.5295837"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.616016, -87.5295837)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1467627",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.869664"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.632747"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.869664, -87.632747)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1657236",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "285206",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1096233",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.832145249999996"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.62724140056953"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.832145249999996, -87.62724140056953)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1496967",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.800521"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.65653772059315"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.800521, -87.65653772059315)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2028354",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "657313",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.773881599999996"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6012432254135"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.773881599999996, -87.6012432254135)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1307699",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1496490",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.00279861082696"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.0962071165367"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.00279861082696, -88.0962071165367)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1948723",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.00279861082696"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.0962071165367"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.00279861082696, -88.0962071165367)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "74472",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.804767"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625331"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.804767, -87.625331)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1152141",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.790551"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.689734"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.790551, -87.689734)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1395621",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9704264"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.9053663"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9704264, -87.9053663)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1588422",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "531431",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1151675",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.800521"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.65653772059315"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.800521, -87.65653772059315)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1566699",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9639298644981"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.83680615565932"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9639298644981, -87.83680615565932)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "670689",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.779571"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.683377"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.779571, -87.683377)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1300367",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.003387217752234"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.97887488222919"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.003387217752234, -87.97887488222919)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1633007",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.6920052"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6653395395011"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.6920052, -87.6653395395011)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "231354",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.832145249999996"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.62724140056953"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.832145249999996, -87.62724140056953)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1279250",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.862240099999994"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.69514484959751"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.862240099999994, -87.69514484959751)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1493248",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.899391"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.9404445"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.899391, -87.9404445)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2010155",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "250259",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7784883"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6119874"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7784883, -87.6119874)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1424973",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.866197"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.671505"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.866197, -87.671505)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2060050",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.047065"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6789663"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.047065, -87.6789663)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "250921",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.798643"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625082"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.798643, -87.625082)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "920378",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1235018",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.0447388"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6930459"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.0447388, -87.6930459)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1584109",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.823619"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.616378"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.823619, -87.616378)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1965359",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.033967"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.713948"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.033967, -87.713948)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "462304",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9298021"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.7088574"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9298021, -87.7088574)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1307524",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1734408",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.804767"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625331"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.804767, -87.625331)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "529244",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.80972665"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.67191524902704"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.80972665, -87.67191524902704)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1285843",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.77377165"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.59416360499378"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.77377165, -87.59416360499378)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1369665",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1931904",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "580235",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.876632"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.856711"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.876632, -87.856711)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1228036",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1579014",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.800521"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.65653772059315"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.800521, -87.65653772059315)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2064793",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "491407",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.787440149999995"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.70770649685437"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.787440149999995, -87.70770649685437)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1321419",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.79329655"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.68836460924437"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.79329655, -87.68836460924437)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1522300",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1960841",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.033967"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.713948"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.033967, -87.713948)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "529344",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.800521"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.65653772059315"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.800521, -87.65653772059315)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1154670",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.656517"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.589325"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.656517, -87.589325)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1650243",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.787440149999995"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.70770649685437"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.787440149999995, -87.70770649685437)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "233502",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.743549"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.610452"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.743549, -87.610452)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "673216",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.6920052"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6653395395011"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.6920052, -87.6653395395011)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1319208",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7784883"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6119874"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7784883, -87.6119874)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1569213",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.80972665"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.67191524902704"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.80972665, -87.67191524902704)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2010048",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.869664"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.632747"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.869664, -87.632747)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "60578",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.849238"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.68696"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.849238, -87.68696)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "531581",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.804767"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625331"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.804767, -87.625331)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1325396",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1948975",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "284523",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1322101",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1516690",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7781125"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.74643860098467"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7781125, -87.74643860098467)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1752013",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.735585"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.561434"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.735585, -87.561434)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "60405",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1154695",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.656517"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.589325"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.656517, -87.589325)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1395783",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.82377604279077"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.75732040929756"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.82377604279077, -87.75732040929756)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1966981",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.77377165"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.59416360499378"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.77377165, -87.59416360499378)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1214556",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.714278764037026"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.06217018463691"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.714278764037026, -88.06217018463691)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1559989",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8674021"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6325503"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8674021, -87.6325503)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "453326",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.784042"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.688296"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.784042, -87.688296)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1319774",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.77377165"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.59416360499378"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.77377165, -87.59416360499378)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1632476",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.787440149999995"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.70770649685437"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.787440149999995, -87.70770649685437)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "549241",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.6899779"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.7974139"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.6899779, -87.7974139)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "920433",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7637531"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.64879144207492"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7637531, -87.64879144207492)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1369223",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.899391"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.9404445"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.899391, -87.9404445)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1746301",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.80972665"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.67191524902704"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.80972665, -87.67191524902704)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2009270",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "413977",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.876632"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.856711"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.876632, -87.856711)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1296393",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.743549"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.610452"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.743549, -87.610452)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1734398",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.804767"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625331"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.804767, -87.625331)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2028665",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.051035549999995"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.83778490931326"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.051035549999995, -87.83778490931326)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "529212",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.798643"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625082"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.798643, -87.625082)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1228263",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.80972665"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.67191524902704"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.80972665, -87.67191524902704)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1369664",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1763756",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.790551"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.689734"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.790551, -87.689734)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "580233",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.876632"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.856711"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.876632, -87.856711)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1151779",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.80972665"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.67191524902704"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.80972665, -87.67191524902704)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1523007",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.01113000390448"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.07992132198142"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.01113000390448, -88.07992132198142)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2064674",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.00273202468276"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.1025579837772"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.00273202468276, -88.1025579837772)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "491395",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.876632"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.856711"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.876632, -87.856711)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1300730",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.798643"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625082"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.798643, -87.625082)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1497550",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.798643"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625082"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.798643, -87.625082)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1770388",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "529306",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.798643"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625082"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.798643, -87.625082)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1106878",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.884762"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.097668"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.884762, -88.097668)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1578617",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.798643"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625082"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.798643, -87.625082)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "233469",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.6920052"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6653395395011"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.6920052, -87.6653395395011)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "671188",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9298021"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.7088574"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9298021, -87.7088574)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1319207",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.773881599999996"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6012432254135"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.773881599999996, -87.6012432254135)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1561246",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8043798"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.7204015"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8043798, -87.7204015)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2010001",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "250702",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7959686"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.64229692020365"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7959686, -87.64229692020365)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1307259",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1490846",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8043798"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.7204015"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8043798, -87.7204015)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1751952",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8043798"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.7204015"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8043798, -87.7204015)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "60563",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.849238"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.68696"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.849238, -87.68696)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "531557",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1325391",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1583417",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7959686"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.64229692020365"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7959686, -87.64229692020365)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1142235",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1360903",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.95835709032077"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.818152"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.95835709032077, -87.818152)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1946499",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9704264"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.9053663"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9704264, -87.9053663)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1151253",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7385252"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6952654"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7385252, -87.6952654)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1559987",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8674021"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6325503"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8674021, -87.6325503)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "397232",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9704264"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.9053663"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9704264, -87.9053663)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1319754",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.77377165"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.59416360499378"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.77377165, -87.59416360499378)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1576070",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.855816"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.646282"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.855816, -87.646282)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "539453",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9704264"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.9053663"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9704264, -87.9053663)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "920403",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.743549"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.610452"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.743549, -87.610452)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1305303",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.784042"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.688296"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.784042, -87.688296)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1746214",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1982714",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.00273202468276"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.1025579837772"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.00273202468276, -88.1025579837772)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "635185",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.121783"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.749162"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.121783, -87.749162)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1361182",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.899391"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.9404445"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.899391, -87.9404445)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1955350",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7637531"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.64879144207492"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7637531, -87.64879144207492)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "347308",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.876632"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.856711"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.876632, -87.856711)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "679332",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.202731"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.113648"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.202731, -88.113648)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1307418",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7637531"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.64879144207492"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7637531, -87.64879144207492)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1588391",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.827649"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.677163"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.827649, -87.677163)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "251071",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.80972665"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.67191524902704"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.80972665, -87.67191524902704)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "598421",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.862240099999994"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.69514484959751"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.862240099999994, -87.69514484959751)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1353228",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.889814"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625789"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.889814, -87.625789)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2009615",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1227297",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.82377604279077"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.75732040929756"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.82377604279077, -87.75732040929756)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1386516",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7784883"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6119874"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7784883, -87.6119874)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1657233",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "124279",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9828668"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.84424326128607"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9828668, -87.84424326128607)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "670366",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.790551"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.689734"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.790551, -87.689734)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1360260",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.764268400000006"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.7007605"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.764268400000006, -87.7007605)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1990105",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.784042"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.688296"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.784042, -87.688296)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "567414",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1290249",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.800521"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.65653772059315"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.800521, -87.65653772059315)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1395433",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9704264"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.9053663"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9704264, -87.9053663)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1937672",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.00273202468276"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.1025579837772"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.00273202468276, -88.1025579837772)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "391211",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.97261533733279"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.66435349763287"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.97261533733279, -87.66435349763287)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "670216",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1496874",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7784883"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6119874"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7784883, -87.6119874)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "585325",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.827649"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.677163"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.827649, -87.677163)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1386157",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.804767"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625331"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.804767, -87.625331)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1532485",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1978518",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.047065"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6789663"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.047065, -87.6789663)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "491846",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.6899779"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.7974139"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.6899779, -87.7974139)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1234521",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.0315733921915"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.97294670228284"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.0315733921915, -87.97294670228284)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1546475",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.02167755"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.76745199369101"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.02167755, -87.76745199369101)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1981963",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.047065"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6789663"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.047065, -87.6789663)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1387730",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.656517"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.589325"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.656517, -87.589325)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1970632",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.00273202468276"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.1025579837772"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.00273202468276, -88.1025579837772)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "114452",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.888412"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.634403"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.888412, -87.634403)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1150309",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7385252"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6952654"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7385252, -87.6952654)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1453431",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1995223",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.992978"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.025932"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.992978, -88.025932)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "158253",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.812077"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.670246"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.812077, -87.670246)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "657368",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.832145249999996"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.62724140056953"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.832145249999996, -87.62724140056953)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1155161",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.656517"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.589325"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.656517, -87.589325)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1515897",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.79329655"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.68836460924437"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.79329655, -87.68836460924437)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1932706",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2060158",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.899391"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.9404445"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.899391, -87.9404445)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "659681",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.718976"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.779533"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.718976, -87.779533)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1307285",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1425186",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9704264"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.9053663"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9704264, -87.9053663)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1960352",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.798643"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625082"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.798643, -87.625082)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "491694",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9704264"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.9053663"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9704264, -87.9053663)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1307668",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1955277",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.827649"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.677163"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.827649, -87.677163)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "580237",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.876632"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.856711"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.876632, -87.856711)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1228054",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1579073",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7959686"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.64229692020365"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7959686, -87.64229692020365)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "491413",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7959686"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.64229692020365"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7959686, -87.64229692020365)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1369464",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8043798"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.7204015"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8043798, -87.7204015)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1578875",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7637531"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.64879144207492"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7637531, -87.64879144207492)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1981621",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.047065"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6789663"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.047065, -87.6789663)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "67738",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9828668"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.84424326128607"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9828668, -87.84424326128607)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "634484",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.862356"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.858836"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.862356, -87.858836)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1199025",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1751450",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.992978"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-88.025932"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.992978, -88.025932)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "490912",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.849238"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.68696"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.849238, -87.68696)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1228325",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1360656",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1575242",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.19701863018545"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.86136613704373"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.19701863018545, -87.86136613704373)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2050554",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8769346"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6229043"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8769346, -87.6229043)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "176507",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.790551"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.689734"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.790551, -87.689734)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "531584",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.804767"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625331"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.804767, -87.625331)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1325399",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1979146",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "42.047065"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6789663"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(42.047065, -87.6789663)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "419750",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7385252"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6952654"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7385252, -87.6952654)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1372423",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.889814"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625789"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.889814, -87.625789)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1516704",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.7781125"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.74643860098467"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.7781125, -87.74643860098467)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1932934",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.8755616"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6244212"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.8755616, -87.6244212)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "251185",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.572159"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.645835"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.572159, -87.645835)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1227223",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.784042"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.688296"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.784042, -87.688296)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1395803",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.6920052"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6653395395011"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.6920052, -87.6653395395011)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1967061",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9704264"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.9053663"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9704264, -87.9053663)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "453327",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.79329655"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.68836460924437"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.79329655, -87.68836460924437)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1319791",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.77377165"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.59416360499378"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.77377165, -87.59416360499378)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1734950",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.79329655"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.68836460924437"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.79329655, -87.68836460924437)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1319720",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.773881599999996"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6012432254135"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.773881599999996, -87.6012432254135)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1560029",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.9639298644981"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.83680615565932"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.9639298644981, -87.83680615565932)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "549254",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.6899779"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.7974139"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.6899779, -87.7974139)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1150519",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.572159"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.645835"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.572159, -87.645835)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1386474",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.773881599999996"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.6012432254135"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.773881599999996, -87.6012432254135)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "1746307",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.80972665"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.67191524902704"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.80972665, -87.67191524902704)"
+			}
+		]
+	},
+	{
+		"Inspection_ID": "2009301",
+		"operation": [
+			{
+				"field": "Latitude",
+				"from": "",
+				"to": "41.804767"
+			},
+			{
+				"field": "Longitude",
+				"from": "",
+				"to": "-87.625331"
+			},
+			{
+				"field": "Location",
+				"from": "",
+				"to": "(41.804767, -87.625331)"
+			}
+		]
+	}
+]
