@@ -21,3 +21,6 @@ This folder contains production SQL queries. The only prerequisite are:
 This folder contains "scratch" queries used primarily for exploration and analysis of the loaded dataset - either in its pre-normalization form in the `DataOpenRefine` staging/analysis table, or in its post-normalization form. These are queries that are helpful in aiding analysis and validation and are either frequently reused or lengthy to the point that they are inconvenient to re-write.
 
 The queries in this folder have the same prerequisites as those in the `sql/` folder.
+
+### yw-diagrams/
+This folder contains YesWorkFlow diagrams (.yw) and Grahphiz Files (.gv) for the project, organized in 3 levels. WO gives an overview of the entire cleaning project. W1 describes the 3 phases of the project in more detail. Finally, W2 contain the diagrams for the OpenRefine recipes.

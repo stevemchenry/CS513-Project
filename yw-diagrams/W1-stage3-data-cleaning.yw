@@ -1,0 +1,37 @@
+# @BEGIN Stage3_Normalization_Cleaning
+# @PARAM stage1_final_dataset
+# @IN sql_create_schema_script @URI file:Schema.sql
+# @IN updated_staging_table2
+# @OUT tb_InspectionViolation_csv @URI InspectionViolation.csv
+# @OUT tb_Inspection_csv @URI Inspection.csv
+# @OUT tb_Business_csv @URI Business.csv
+# @OUT tb_Result_csv @URI Result.csv
+# @OUT tb_Violation_csv @URI Violation.csv
+# @OUT tb_Risk_csv @URI Risk.csv
+# @OUT tb_FacilityType_csv @URI FacilityType.csv
+# @OUT tb_BusinessAlias_csv @URI BusinessAlias.csv
+# @OUT tb_InspectionType_csv @URI InspectionType.csv
+# @OUT populated_schema_enforced_db
+
+# @BEGIN Create_Normalized_Database
+# @IN sql_create_schema_script @URI file:Schema.sql
+# @OUT schema_enforced_db
+# @END Create_Normalized_Database
+
+# @BEGIN Populate_Schema @desc Populate schema with staging table
+# @IN schema_enforced_db
+# @IN updated_staging_table2
+# @IN sql_populate_db_script @URI file:Populate-Normalized-Schema.sql
+# @OUT tb_InspectionViolation_csv @URI InspectionViolation.csv
+# @OUT tb_Inspection_csv @URI Inspection.csv
+# @OUT tb_Business_csv @URI Business.csv
+# @OUT tb_Result_csv @URI Result.csv
+# @OUT tb_Violation_csv @URI Violation.csv
+# @OUT tb_Risk_csv @URI Risk.csv
+# @OUT tb_FacilityType_csv @URI FacilityType.csv
+# @OUT tb_BusinessAlias_csv @URI BusinessAlias.csv
+# @OUT tb_InspectionType_csv @URI InspectionType.csv
+# @OUT populated_schema_enforced_db
+# @END Populate_Schema
+
+# @END Stage3_Normalization_Cleaning

@@ -1,0 +1,611 @@
+#@begin Clean-FacilityType-Field
+#@param expression:value.trim()
+#@param expression:value.replace(/\\s+/,'_')
+#@param expression:value.toTitlecase()
+#@param col-name:Facility_Type
+#@in table0
+#@out table120
+#@begin core/text-transform0#@desc Text transform on cells in column Facility Type using expression value.trim()
+#@param col-name:Facility_Type
+#@param expression:value.trim()
+#@in table0
+#@out table1
+#@end core/text-transform0
+#@begin core/text-transform1#@desc Text transform on cells in column Facility Type using expression value.replace(/\\s+/,' ')
+#@param col-name:Facility_Type
+#@param expression:value.replace(/\\s+/,'_')
+#@in table1
+#@out table2
+#@end core/text-transform1
+#@begin core/text-transform2#@desc Text transform on cells in column Facility Type using expression value.toTitlecase()
+#@param col-name:Facility_Type
+#@param expression:value.toTitlecase()
+#@in table2
+#@out table3
+#@end core/text-transform2
+#@begin core/mass-edit0#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table3
+#@out table4
+#@end core/mass-edit0
+#@begin core/mass-edit1#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table4
+#@out table5
+#@end core/mass-edit1
+#@begin core/mass-edit2#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table5
+#@out table6
+#@end core/mass-edit2
+#@begin core/mass-edit3#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table6
+#@out table7
+#@end core/mass-edit3
+#@begin core/mass-edit4#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table7
+#@out table8
+#@end core/mass-edit4
+#@begin core/mass-edit5#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table8
+#@out table9
+#@end core/mass-edit5
+#@begin core/mass-edit6#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table9
+#@out table10
+#@end core/mass-edit6
+#@begin core/mass-edit7#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table10
+#@out table11
+#@end core/mass-edit7
+#@begin core/mass-edit8#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table11
+#@out table12
+#@end core/mass-edit8
+#@begin core/mass-edit9#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table12
+#@out table13
+#@end core/mass-edit9
+#@begin core/mass-edit10#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table13
+#@out table14
+#@end core/mass-edit10
+#@begin core/mass-edit11#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table14
+#@out table15
+#@end core/mass-edit11
+#@begin core/mass-edit12#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table15
+#@out table16
+#@end core/mass-edit12
+#@begin core/mass-edit13#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table16
+#@out table17
+#@end core/mass-edit13
+#@begin core/mass-edit14#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table17
+#@out table18
+#@end core/mass-edit14
+#@begin core/mass-edit15#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table18
+#@out table19
+#@end core/mass-edit15
+#@begin core/mass-edit16#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table19
+#@out table20
+#@end core/mass-edit16
+#@begin core/mass-edit17#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table20
+#@out table21
+#@end core/mass-edit17
+#@begin core/mass-edit18#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table21
+#@out table22
+#@end core/mass-edit18
+#@begin core/mass-edit19#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table22
+#@out table23
+#@end core/mass-edit19
+#@begin core/mass-edit20#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table23
+#@out table24
+#@end core/mass-edit20
+#@begin core/mass-edit21#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table24
+#@out table25
+#@end core/mass-edit21
+#@begin core/mass-edit22#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table25
+#@out table26
+#@end core/mass-edit22
+#@begin core/mass-edit23#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table26
+#@out table27
+#@end core/mass-edit23
+#@begin core/mass-edit24#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table27
+#@out table28
+#@end core/mass-edit24
+#@begin core/mass-edit25#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table28
+#@out table29
+#@end core/mass-edit25
+#@begin core/mass-edit26#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table29
+#@out table30
+#@end core/mass-edit26
+#@begin core/mass-edit27#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table30
+#@out table31
+#@end core/mass-edit27
+#@begin core/mass-edit28#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table31
+#@out table32
+#@end core/mass-edit28
+#@begin core/mass-edit29#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table32
+#@out table33
+#@end core/mass-edit29
+#@begin core/mass-edit30#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table33
+#@out table34
+#@end core/mass-edit30
+#@begin core/mass-edit31#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table34
+#@out table35
+#@end core/mass-edit31
+#@begin core/mass-edit32#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table35
+#@out table36
+#@end core/mass-edit32
+#@begin core/mass-edit33#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table36
+#@out table37
+#@end core/mass-edit33
+#@begin core/mass-edit34#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table37
+#@out table38
+#@end core/mass-edit34
+#@begin core/mass-edit35#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table38
+#@out table39
+#@end core/mass-edit35
+#@begin core/mass-edit36#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table39
+#@out table40
+#@end core/mass-edit36
+#@begin core/mass-edit37#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table40
+#@out table41
+#@end core/mass-edit37
+#@begin core/mass-edit38#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table41
+#@out table42
+#@end core/mass-edit38
+#@begin core/mass-edit39#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table42
+#@out table43
+#@end core/mass-edit39
+#@begin core/mass-edit40#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table43
+#@out table44
+#@end core/mass-edit40
+#@begin core/mass-edit41#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table44
+#@out table45
+#@end core/mass-edit41
+#@begin core/mass-edit42#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table45
+#@out table46
+#@end core/mass-edit42
+#@begin core/mass-edit43#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table46
+#@out table47
+#@end core/mass-edit43
+#@begin core/mass-edit44#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table47
+#@out table48
+#@end core/mass-edit44
+#@begin core/mass-edit45#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table48
+#@out table49
+#@end core/mass-edit45
+#@begin core/mass-edit46#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table49
+#@out table50
+#@end core/mass-edit46
+#@begin core/mass-edit47#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table50
+#@out table51
+#@end core/mass-edit47
+#@begin core/mass-edit48#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table51
+#@out table52
+#@end core/mass-edit48
+#@begin core/mass-edit49#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table52
+#@out table53
+#@end core/mass-edit49
+#@begin core/mass-edit50#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table53
+#@out table54
+#@end core/mass-edit50
+#@begin core/mass-edit51#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table54
+#@out table55
+#@end core/mass-edit51
+#@begin core/mass-edit52#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table55
+#@out table56
+#@end core/mass-edit52
+#@begin core/mass-edit53#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table56
+#@out table57
+#@end core/mass-edit53
+#@begin core/mass-edit54#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table57
+#@out table58
+#@end core/mass-edit54
+#@begin core/mass-edit55#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table58
+#@out table59
+#@end core/mass-edit55
+#@begin core/mass-edit56#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table59
+#@out table60
+#@end core/mass-edit56
+#@begin core/mass-edit57#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table60
+#@out table61
+#@end core/mass-edit57
+#@begin core/mass-edit58#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table61
+#@out table62
+#@end core/mass-edit58
+#@begin core/mass-edit59#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table62
+#@out table63
+#@end core/mass-edit59
+#@begin core/mass-edit60#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table63
+#@out table64
+#@end core/mass-edit60
+#@begin core/mass-edit61#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table64
+#@out table65
+#@end core/mass-edit61
+#@begin core/mass-edit62#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table65
+#@out table66
+#@end core/mass-edit62
+#@begin core/mass-edit63#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table66
+#@out table67
+#@end core/mass-edit63
+#@begin core/mass-edit64#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table67
+#@out table68
+#@end core/mass-edit64
+#@begin core/mass-edit65#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table68
+#@out table69
+#@end core/mass-edit65
+#@begin core/mass-edit66#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table69
+#@out table70
+#@end core/mass-edit66
+#@begin core/mass-edit67#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table70
+#@out table71
+#@end core/mass-edit67
+#@begin core/mass-edit68#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table71
+#@out table72
+#@end core/mass-edit68
+#@begin core/mass-edit69#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table72
+#@out table73
+#@end core/mass-edit69
+#@begin core/mass-edit70#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table73
+#@out table74
+#@end core/mass-edit70
+#@begin core/mass-edit71#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table74
+#@out table75
+#@end core/mass-edit71
+#@begin core/mass-edit72#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table75
+#@out table76
+#@end core/mass-edit72
+#@begin core/mass-edit73#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table76
+#@out table77
+#@end core/mass-edit73
+#@begin core/mass-edit74#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table77
+#@out table78
+#@end core/mass-edit74
+#@begin core/mass-edit75#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table78
+#@out table79
+#@end core/mass-edit75
+#@begin core/mass-edit76#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table79
+#@out table80
+#@end core/mass-edit76
+#@begin core/mass-edit77#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table80
+#@out table81
+#@end core/mass-edit77
+#@begin core/mass-edit78#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table81
+#@out table82
+#@end core/mass-edit78
+#@begin core/mass-edit79#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table82
+#@out table83
+#@end core/mass-edit79
+#@begin core/mass-edit80#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table83
+#@out table84
+#@end core/mass-edit80
+#@begin core/mass-edit81#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table84
+#@out table85
+#@end core/mass-edit81
+#@begin core/mass-edit82#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table85
+#@out table86
+#@end core/mass-edit82
+#@begin core/mass-edit83#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table86
+#@out table87
+#@end core/mass-edit83
+#@begin core/mass-edit84#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table87
+#@out table88
+#@end core/mass-edit84
+#@begin core/mass-edit85#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table88
+#@out table89
+#@end core/mass-edit85
+#@begin core/mass-edit86#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table89
+#@out table90
+#@end core/mass-edit86
+#@begin core/mass-edit87#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table90
+#@out table91
+#@end core/mass-edit87
+#@begin core/mass-edit88#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table91
+#@out table92
+#@end core/mass-edit88
+#@begin core/mass-edit89#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table92
+#@out table93
+#@end core/mass-edit89
+#@begin core/mass-edit90#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table93
+#@out table94
+#@end core/mass-edit90
+#@begin core/mass-edit91#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table94
+#@out table95
+#@end core/mass-edit91
+#@begin core/mass-edit92#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table95
+#@out table96
+#@end core/mass-edit92
+#@begin core/mass-edit93#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table96
+#@out table97
+#@end core/mass-edit93
+#@begin core/mass-edit94#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table97
+#@out table98
+#@end core/mass-edit94
+#@begin core/mass-edit95#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table98
+#@out table99
+#@end core/mass-edit95
+#@begin core/mass-edit96#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table99
+#@out table100
+#@end core/mass-edit96
+#@begin core/mass-edit97#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table100
+#@out table101
+#@end core/mass-edit97
+#@begin core/mass-edit98#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table101
+#@out table102
+#@end core/mass-edit98
+#@begin core/mass-edit99#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table102
+#@out table103
+#@end core/mass-edit99
+#@begin core/mass-edit100#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table103
+#@out table104
+#@end core/mass-edit100
+#@begin core/mass-edit101#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table104
+#@out table105
+#@end core/mass-edit101
+#@begin core/mass-edit102#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table105
+#@out table106
+#@end core/mass-edit102
+#@begin core/mass-edit103#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table106
+#@out table107
+#@end core/mass-edit103
+#@begin core/mass-edit104#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table107
+#@out table108
+#@end core/mass-edit104
+#@begin core/mass-edit105#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table108
+#@out table109
+#@end core/mass-edit105
+#@begin core/mass-edit106#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table109
+#@out table110
+#@end core/mass-edit106
+#@begin core/mass-edit107#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table110
+#@out table111
+#@end core/mass-edit107
+#@begin core/mass-edit108#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table111
+#@out table112
+#@end core/mass-edit108
+#@begin core/mass-edit109#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table112
+#@out table113
+#@end core/mass-edit109
+#@begin core/mass-edit110#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table113
+#@out table114
+#@end core/mass-edit110
+#@begin core/mass-edit111#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table114
+#@out table115
+#@end core/mass-edit111
+#@begin core/mass-edit112#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table115
+#@out table116
+#@end core/mass-edit112
+#@begin core/mass-edit113#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table116
+#@out table117
+#@end core/mass-edit113
+#@begin core/mass-edit114#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table117
+#@out table118
+#@end core/mass-edit114
+#@begin core/mass-edit115#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table118
+#@out table119
+#@end core/mass-edit115
+#@begin core/mass-edit116#@desc Mass edit cells in column Facility Type
+#@param col-name:Facility_Type
+#@in table119
+#@out table120
+#@end core/mass-edit116
+#@end Clean-FacilityType-Field

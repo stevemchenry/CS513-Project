@@ -1,0 +1,451 @@
+/* Start of top-level graph */
+digraph Workflow {
+rankdir=TB
+
+/* Title for graph */
+fontname=Helvetica; fontsize=18; labelloc=t
+label=Fix_Empty_City_Records
+
+/* Start of double cluster for drawing box around nodes in workflow */
+subgraph cluster_workflow_box_outer { label=""; color=black; penwidth=2
+subgraph cluster_workflow_box_inner { label=""; penwidth=0
+
+/* Style for nodes representing atomic programs in workflow */
+node[shape=box style=filled fillcolor="#CCFFCC" peripheries=1 fontname=Helvetica]
+
+/* Nodes representing atomic programs in workflow */
+"core/mass-edit0#" [shape=record rankdir=LR label="{<f0> core/mass-edit0# |<f1> Mass edit cells in column City}"];
+"core/mass-edit1#" [shape=record rankdir=LR label="{<f0> core/mass-edit1# |<f1> Mass edit cells in column City}"];
+"core/mass-edit2#" [shape=record rankdir=LR label="{<f0> core/mass-edit2# |<f1> Mass edit cells in column City}"];
+"core/mass-edit3#" [shape=record rankdir=LR label="{<f0> core/mass-edit3# |<f1> Mass edit cells in column City}"];
+"core/mass-edit4#" [shape=record rankdir=LR label="{<f0> core/mass-edit4# |<f1> Mass edit cells in column City}"];
+"core/mass-edit5#" [shape=record rankdir=LR label="{<f0> core/mass-edit5# |<f1> Mass edit cells in column City}"];
+"core/mass-edit6#" [shape=record rankdir=LR label="{<f0> core/mass-edit6# |<f1> Mass edit cells in column City}"];
+"core/mass-edit7#" [shape=record rankdir=LR label="{<f0> core/mass-edit7# |<f1> Mass edit cells in column City}"];
+"core/mass-edit8#" [shape=record rankdir=LR label="{<f0> core/mass-edit8# |<f1> Mass edit cells in column City}"];
+"core/mass-edit9#" [shape=record rankdir=LR label="{<f0> core/mass-edit9# |<f1> Mass edit cells in column City}"];
+"core/mass-edit10#" [shape=record rankdir=LR label="{<f0> core/mass-edit10# |<f1> Mass edit cells in column City}"];
+"core/mass-edit11#" [shape=record rankdir=LR label="{<f0> core/mass-edit11# |<f1> Mass edit cells in column City}"];
+"core/mass-edit12#" [shape=record rankdir=LR label="{<f0> core/mass-edit12# |<f1> Mass edit cells in column City}"];
+"core/mass-edit13#" [shape=record rankdir=LR label="{<f0> core/mass-edit13# |<f1> Mass edit cells in column City}"];
+"core/mass-edit14#" [shape=record rankdir=LR label="{<f0> core/mass-edit14# |<f1> Mass edit cells in column City}"];
+"core/mass-edit15#" [shape=record rankdir=LR label="{<f0> core/mass-edit15# |<f1> Mass edit cells in column City}"];
+"core/mass-edit16#" [shape=record rankdir=LR label="{<f0> core/mass-edit16# |<f1> Mass edit cells in column City}"];
+"core/mass-edit17#" [shape=record rankdir=LR label="{<f0> core/mass-edit17# |<f1> Mass edit cells in column City}"];
+"core/mass-edit18#" [shape=record rankdir=LR label="{<f0> core/mass-edit18# |<f1> Mass edit cells in column City}"];
+"core/mass-edit19#" [shape=record rankdir=LR label="{<f0> core/mass-edit19# |<f1> Mass edit cells in column City}"];
+"core/mass-edit20#" [shape=record rankdir=LR label="{<f0> core/mass-edit20# |<f1> Mass edit cells in column City}"];
+"core/mass-edit21#" [shape=record rankdir=LR label="{<f0> core/mass-edit21# |<f1> Mass edit cells in column City}"];
+"core/mass-edit22#" [shape=record rankdir=LR label="{<f0> core/mass-edit22# |<f1> Mass edit cells in column City}"];
+"core/mass-edit23#" [shape=record rankdir=LR label="{<f0> core/mass-edit23# |<f1> Mass edit cells in column City}"];
+"core/mass-edit24#" [shape=record rankdir=LR label="{<f0> core/mass-edit24# |<f1> Mass edit cells in column City}"];
+"core/mass-edit25#" [shape=record rankdir=LR label="{<f0> core/mass-edit25# |<f1> Mass edit cells in column City}"];
+"core/mass-edit26#" [shape=record rankdir=LR label="{<f0> core/mass-edit26# |<f1> Mass edit cells in column City}"];
+"core/mass-edit27#" [shape=record rankdir=LR label="{<f0> core/mass-edit27# |<f1> Mass edit cells in column City}"];
+"core/mass-edit28#" [shape=record rankdir=LR label="{<f0> core/mass-edit28# |<f1> Mass edit cells in column City}"];
+"core/mass-edit29#" [shape=record rankdir=LR label="{<f0> core/mass-edit29# |<f1> Mass edit cells in column City}"];
+"core/mass-edit30#" [shape=record rankdir=LR label="{<f0> core/mass-edit30# |<f1> Mass edit cells in column City}"];
+"core/mass-edit31#" [shape=record rankdir=LR label="{<f0> core/mass-edit31# |<f1> Mass edit cells in column City}"];
+"core/mass-edit32#" [shape=record rankdir=LR label="{<f0> core/mass-edit32# |<f1> Mass edit cells in column City}"];
+"core/mass-edit33#" [shape=record rankdir=LR label="{<f0> core/mass-edit33# |<f1> Mass edit cells in column City}"];
+"core/mass-edit34#" [shape=record rankdir=LR label="{<f0> core/mass-edit34# |<f1> Mass edit cells in column City}"];
+"core/mass-edit35#" [shape=record rankdir=LR label="{<f0> core/mass-edit35# |<f1> Mass edit cells in column City}"];
+"core/mass-edit36#" [shape=record rankdir=LR label="{<f0> core/mass-edit36# |<f1> Mass edit cells in column City}"];
+"core/mass-edit37#" [shape=record rankdir=LR label="{<f0> core/mass-edit37# |<f1> Mass edit cells in column City}"];
+"core/mass-edit38#" [shape=record rankdir=LR label="{<f0> core/mass-edit38# |<f1> Mass edit cells in column City}"];
+"core/mass-edit39#" [shape=record rankdir=LR label="{<f0> core/mass-edit39# |<f1> Mass edit cells in column City}"];
+"core/mass-edit40#" [shape=record rankdir=LR label="{<f0> core/mass-edit40# |<f1> Mass edit cells in column City}"];
+"core/mass-edit41#" [shape=record rankdir=LR label="{<f0> core/mass-edit41# |<f1> Mass edit cells in column City}"];
+"core/mass-edit42#" [shape=record rankdir=LR label="{<f0> core/mass-edit42# |<f1> Mass edit cells in column City}"];
+"core/mass-edit43#" [shape=record rankdir=LR label="{<f0> core/mass-edit43# |<f1> Mass edit cells in column City}"];
+"core/mass-edit44#" [shape=record rankdir=LR label="{<f0> core/mass-edit44# |<f1> Mass edit cells in column City}"];
+"core/mass-edit45#" [shape=record rankdir=LR label="{<f0> core/mass-edit45# |<f1> Mass edit cells in column City}"];
+"core/mass-edit46#" [shape=record rankdir=LR label="{<f0> core/mass-edit46# |<f1> Mass edit cells in column City}"];
+"core/mass-edit47#" [shape=record rankdir=LR label="{<f0> core/mass-edit47# |<f1> Mass edit cells in column City}"];
+"core/mass-edit48#" [shape=record rankdir=LR label="{<f0> core/mass-edit48# |<f1> Mass edit cells in column City}"];
+"core/mass-edit49#" [shape=record rankdir=LR label="{<f0> core/mass-edit49# |<f1> Mass edit cells in column City}"];
+"core/mass-edit50#" [shape=record rankdir=LR label="{<f0> core/mass-edit50# |<f1> Mass edit cells in column City}"];
+"core/mass-edit51#" [shape=record rankdir=LR label="{<f0> core/mass-edit51# |<f1> Mass edit cells in column City}"];
+"core/mass-edit52#" [shape=record rankdir=LR label="{<f0> core/mass-edit52# |<f1> Mass edit cells in column City}"];
+"core/mass-edit53#" [shape=record rankdir=LR label="{<f0> core/mass-edit53# |<f1> Mass edit cells in column City}"];
+"core/mass-edit54#" [shape=record rankdir=LR label="{<f0> core/mass-edit54# |<f1> Mass edit cells in column City}"];
+"core/mass-edit55#" [shape=record rankdir=LR label="{<f0> core/mass-edit55# |<f1> Mass edit cells in column City}"];
+"core/mass-edit56#" [shape=record rankdir=LR label="{<f0> core/mass-edit56# |<f1> Mass edit cells in column City}"];
+"core/mass-edit57#" [shape=record rankdir=LR label="{<f0> core/mass-edit57# |<f1> Mass edit cells in column City}"];
+"core/mass-edit58#" [shape=record rankdir=LR label="{<f0> core/mass-edit58# |<f1> Mass edit cells in column City}"];
+"core/mass-edit59#" [shape=record rankdir=LR label="{<f0> core/mass-edit59# |<f1> Mass edit cells in column City}"];
+"core/mass-edit60#" [shape=record rankdir=LR label="{<f0> core/mass-edit60# |<f1> Mass edit cells in column City}"];
+"core/mass-edit61#" [shape=record rankdir=LR label="{<f0> core/mass-edit61# |<f1> Mass edit cells in column City}"];
+"core/mass-edit62#" [shape=record rankdir=LR label="{<f0> core/mass-edit62# |<f1> Mass edit cells in column City}"];
+"core/mass-edit63#" [shape=record rankdir=LR label="{<f0> core/mass-edit63# |<f1> Mass edit cells in column City}"];
+"core/mass-edit64#" [shape=record rankdir=LR label="{<f0> core/mass-edit64# |<f1> Mass edit cells in column City}"];
+"core/mass-edit65#" [shape=record rankdir=LR label="{<f0> core/mass-edit65# |<f1> Mass edit cells in column City}"];
+"core/mass-edit66#" [shape=record rankdir=LR label="{<f0> core/mass-edit66# |<f1> Mass edit cells in column City}"];
+"core/mass-edit67#" [shape=record rankdir=LR label="{<f0> core/mass-edit67# |<f1> Mass edit cells in column City}"];
+"core/mass-edit68#" [shape=record rankdir=LR label="{<f0> core/mass-edit68# |<f1> Mass edit cells in column City}"];
+"core/mass-edit69#" [shape=record rankdir=LR label="{<f0> core/mass-edit69# |<f1> Mass edit cells in column City}"];
+"core/mass-edit70#" [shape=record rankdir=LR label="{<f0> core/mass-edit70# |<f1> Mass edit cells in column City}"];
+"core/mass-edit71#" [shape=record rankdir=LR label="{<f0> core/mass-edit71# |<f1> Mass edit cells in column City}"];
+"core/mass-edit72#" [shape=record rankdir=LR label="{<f0> core/mass-edit72# |<f1> Mass edit cells in column City}"];
+"core/mass-edit73#" [shape=record rankdir=LR label="{<f0> core/mass-edit73# |<f1> Mass edit cells in column City}"];
+"core/mass-edit74#" [shape=record rankdir=LR label="{<f0> core/mass-edit74# |<f1> Mass edit cells in column City}"];
+"core/mass-edit75#" [shape=record rankdir=LR label="{<f0> core/mass-edit75# |<f1> Mass edit cells in column City}"];
+"core/mass-edit76#" [shape=record rankdir=LR label="{<f0> core/mass-edit76# |<f1> Mass edit cells in column City}"];
+"core/mass-edit77#" [shape=record rankdir=LR label="{<f0> core/mass-edit77# |<f1> Mass edit cells in column City}"];
+"core/mass-edit78#" [shape=record rankdir=LR label="{<f0> core/mass-edit78# |<f1> Mass edit cells in column City}"];
+
+/* Style for nodes representing non-parameter data channels in workflow */
+node[shape=box style="rounded,filled" fillcolor="#FFFFCC" peripheries=1 fontname=Helvetica]
+
+/* Nodes for non-parameter data channels in workflow */
+table79
+table0
+table1
+table2
+table3
+table4
+table5
+table6
+table7
+table8
+table9
+table10
+table11
+table12
+table13
+table14
+table15
+table16
+table17
+table18
+table19
+table20
+table21
+table22
+table23
+table24
+table25
+table26
+table27
+table28
+table29
+table30
+table31
+table32
+table33
+table34
+table35
+table36
+table37
+table38
+table39
+table40
+table41
+table42
+table43
+table44
+table45
+table46
+table47
+table48
+table49
+table50
+table51
+table52
+table53
+table54
+table55
+table56
+table57
+table58
+table59
+table60
+table61
+table62
+table63
+table64
+table65
+table66
+table67
+table68
+table69
+table70
+table71
+table72
+table73
+table74
+table75
+table76
+table77
+table78
+
+/* Style for nodes representing parameter channels in workflow */
+node[shape=box style="rounded,filled" fillcolor="#FCFCFC" peripheries=1 fontname=Helvetica]
+
+/* Nodes representing parameter channels in workflow */
+"col-name:City"
+
+/* Edges representing connections between programs and channels */
+"core/mass-edit0#" -> table1
+"col-name:City" -> "core/mass-edit0#"
+table0 -> "core/mass-edit0#"
+"core/mass-edit1#" -> table2
+"col-name:City" -> "core/mass-edit1#"
+table1 -> "core/mass-edit1#"
+"core/mass-edit2#" -> table3
+"col-name:City" -> "core/mass-edit2#"
+table2 -> "core/mass-edit2#"
+"core/mass-edit3#" -> table4
+"col-name:City" -> "core/mass-edit3#"
+table3 -> "core/mass-edit3#"
+"core/mass-edit4#" -> table5
+"col-name:City" -> "core/mass-edit4#"
+table4 -> "core/mass-edit4#"
+"core/mass-edit5#" -> table6
+"col-name:City" -> "core/mass-edit5#"
+table5 -> "core/mass-edit5#"
+"core/mass-edit6#" -> table7
+"col-name:City" -> "core/mass-edit6#"
+table6 -> "core/mass-edit6#"
+"core/mass-edit7#" -> table8
+"col-name:City" -> "core/mass-edit7#"
+table7 -> "core/mass-edit7#"
+"core/mass-edit8#" -> table9
+"col-name:City" -> "core/mass-edit8#"
+table8 -> "core/mass-edit8#"
+"core/mass-edit9#" -> table10
+"col-name:City" -> "core/mass-edit9#"
+table9 -> "core/mass-edit9#"
+"core/mass-edit10#" -> table11
+"col-name:City" -> "core/mass-edit10#"
+table10 -> "core/mass-edit10#"
+"core/mass-edit11#" -> table12
+"col-name:City" -> "core/mass-edit11#"
+table11 -> "core/mass-edit11#"
+"core/mass-edit12#" -> table13
+"col-name:City" -> "core/mass-edit12#"
+table12 -> "core/mass-edit12#"
+"core/mass-edit13#" -> table14
+"col-name:City" -> "core/mass-edit13#"
+table13 -> "core/mass-edit13#"
+"core/mass-edit14#" -> table15
+"col-name:City" -> "core/mass-edit14#"
+table14 -> "core/mass-edit14#"
+"core/mass-edit15#" -> table16
+"col-name:City" -> "core/mass-edit15#"
+table15 -> "core/mass-edit15#"
+"core/mass-edit16#" -> table17
+"col-name:City" -> "core/mass-edit16#"
+table16 -> "core/mass-edit16#"
+"core/mass-edit17#" -> table18
+"col-name:City" -> "core/mass-edit17#"
+table17 -> "core/mass-edit17#"
+"core/mass-edit18#" -> table19
+"col-name:City" -> "core/mass-edit18#"
+table18 -> "core/mass-edit18#"
+"core/mass-edit19#" -> table20
+"col-name:City" -> "core/mass-edit19#"
+table19 -> "core/mass-edit19#"
+"core/mass-edit20#" -> table21
+"col-name:City" -> "core/mass-edit20#"
+table20 -> "core/mass-edit20#"
+"core/mass-edit21#" -> table22
+"col-name:City" -> "core/mass-edit21#"
+table21 -> "core/mass-edit21#"
+"core/mass-edit22#" -> table23
+"col-name:City" -> "core/mass-edit22#"
+table22 -> "core/mass-edit22#"
+"core/mass-edit23#" -> table24
+"col-name:City" -> "core/mass-edit23#"
+table23 -> "core/mass-edit23#"
+"core/mass-edit24#" -> table25
+"col-name:City" -> "core/mass-edit24#"
+table24 -> "core/mass-edit24#"
+"core/mass-edit25#" -> table26
+"col-name:City" -> "core/mass-edit25#"
+table25 -> "core/mass-edit25#"
+"core/mass-edit26#" -> table27
+"col-name:City" -> "core/mass-edit26#"
+table26 -> "core/mass-edit26#"
+"core/mass-edit27#" -> table28
+"col-name:City" -> "core/mass-edit27#"
+table27 -> "core/mass-edit27#"
+"core/mass-edit28#" -> table29
+"col-name:City" -> "core/mass-edit28#"
+table28 -> "core/mass-edit28#"
+"core/mass-edit29#" -> table30
+"col-name:City" -> "core/mass-edit29#"
+table29 -> "core/mass-edit29#"
+"core/mass-edit30#" -> table31
+"col-name:City" -> "core/mass-edit30#"
+table30 -> "core/mass-edit30#"
+"core/mass-edit31#" -> table32
+"col-name:City" -> "core/mass-edit31#"
+table31 -> "core/mass-edit31#"
+"core/mass-edit32#" -> table33
+"col-name:City" -> "core/mass-edit32#"
+table32 -> "core/mass-edit32#"
+"core/mass-edit33#" -> table34
+"col-name:City" -> "core/mass-edit33#"
+table33 -> "core/mass-edit33#"
+"core/mass-edit34#" -> table35
+"col-name:City" -> "core/mass-edit34#"
+table34 -> "core/mass-edit34#"
+"core/mass-edit35#" -> table36
+"col-name:City" -> "core/mass-edit35#"
+table35 -> "core/mass-edit35#"
+"core/mass-edit36#" -> table37
+"col-name:City" -> "core/mass-edit36#"
+table36 -> "core/mass-edit36#"
+"core/mass-edit37#" -> table38
+"col-name:City" -> "core/mass-edit37#"
+table37 -> "core/mass-edit37#"
+"core/mass-edit38#" -> table39
+"col-name:City" -> "core/mass-edit38#"
+table38 -> "core/mass-edit38#"
+"core/mass-edit39#" -> table40
+"col-name:City" -> "core/mass-edit39#"
+table39 -> "core/mass-edit39#"
+"core/mass-edit40#" -> table41
+"col-name:City" -> "core/mass-edit40#"
+table40 -> "core/mass-edit40#"
+"core/mass-edit41#" -> table42
+"col-name:City" -> "core/mass-edit41#"
+table41 -> "core/mass-edit41#"
+"core/mass-edit42#" -> table43
+"col-name:City" -> "core/mass-edit42#"
+table42 -> "core/mass-edit42#"
+"core/mass-edit43#" -> table44
+"col-name:City" -> "core/mass-edit43#"
+table43 -> "core/mass-edit43#"
+"core/mass-edit44#" -> table45
+"col-name:City" -> "core/mass-edit44#"
+table44 -> "core/mass-edit44#"
+"core/mass-edit45#" -> table46
+"col-name:City" -> "core/mass-edit45#"
+table45 -> "core/mass-edit45#"
+"core/mass-edit46#" -> table47
+"col-name:City" -> "core/mass-edit46#"
+table46 -> "core/mass-edit46#"
+"core/mass-edit47#" -> table48
+"col-name:City" -> "core/mass-edit47#"
+table47 -> "core/mass-edit47#"
+"core/mass-edit48#" -> table49
+"col-name:City" -> "core/mass-edit48#"
+table48 -> "core/mass-edit48#"
+"core/mass-edit49#" -> table50
+"col-name:City" -> "core/mass-edit49#"
+table49 -> "core/mass-edit49#"
+"core/mass-edit50#" -> table51
+"col-name:City" -> "core/mass-edit50#"
+table50 -> "core/mass-edit50#"
+"core/mass-edit51#" -> table52
+"col-name:City" -> "core/mass-edit51#"
+table51 -> "core/mass-edit51#"
+"core/mass-edit52#" -> table53
+"col-name:City" -> "core/mass-edit52#"
+table52 -> "core/mass-edit52#"
+"core/mass-edit53#" -> table54
+"col-name:City" -> "core/mass-edit53#"
+table53 -> "core/mass-edit53#"
+"core/mass-edit54#" -> table55
+"col-name:City" -> "core/mass-edit54#"
+table54 -> "core/mass-edit54#"
+"core/mass-edit55#" -> table56
+"col-name:City" -> "core/mass-edit55#"
+table55 -> "core/mass-edit55#"
+"core/mass-edit56#" -> table57
+"col-name:City" -> "core/mass-edit56#"
+table56 -> "core/mass-edit56#"
+"core/mass-edit57#" -> table58
+"col-name:City" -> "core/mass-edit57#"
+table57 -> "core/mass-edit57#"
+"core/mass-edit58#" -> table59
+"col-name:City" -> "core/mass-edit58#"
+table58 -> "core/mass-edit58#"
+"core/mass-edit59#" -> table60
+"col-name:City" -> "core/mass-edit59#"
+table59 -> "core/mass-edit59#"
+"core/mass-edit60#" -> table61
+"col-name:City" -> "core/mass-edit60#"
+table60 -> "core/mass-edit60#"
+"core/mass-edit61#" -> table62
+"col-name:City" -> "core/mass-edit61#"
+table61 -> "core/mass-edit61#"
+"core/mass-edit62#" -> table63
+"col-name:City" -> "core/mass-edit62#"
+table62 -> "core/mass-edit62#"
+"core/mass-edit63#" -> table64
+"col-name:City" -> "core/mass-edit63#"
+table63 -> "core/mass-edit63#"
+"core/mass-edit64#" -> table65
+"col-name:City" -> "core/mass-edit64#"
+table64 -> "core/mass-edit64#"
+"core/mass-edit65#" -> table66
+"col-name:City" -> "core/mass-edit65#"
+table65 -> "core/mass-edit65#"
+"core/mass-edit66#" -> table67
+"col-name:City" -> "core/mass-edit66#"
+table66 -> "core/mass-edit66#"
+"core/mass-edit67#" -> table68
+"col-name:City" -> "core/mass-edit67#"
+table67 -> "core/mass-edit67#"
+"core/mass-edit68#" -> table69
+"col-name:City" -> "core/mass-edit68#"
+table68 -> "core/mass-edit68#"
+"core/mass-edit69#" -> table70
+"col-name:City" -> "core/mass-edit69#"
+table69 -> "core/mass-edit69#"
+"core/mass-edit70#" -> table71
+"col-name:City" -> "core/mass-edit70#"
+table70 -> "core/mass-edit70#"
+"core/mass-edit71#" -> table72
+"col-name:City" -> "core/mass-edit71#"
+table71 -> "core/mass-edit71#"
+"core/mass-edit72#" -> table73
+"col-name:City" -> "core/mass-edit72#"
+table72 -> "core/mass-edit72#"
+"core/mass-edit73#" -> table74
+"col-name:City" -> "core/mass-edit73#"
+table73 -> "core/mass-edit73#"
+"core/mass-edit74#" -> table75
+"col-name:City" -> "core/mass-edit74#"
+table74 -> "core/mass-edit74#"
+"core/mass-edit75#" -> table76
+"col-name:City" -> "core/mass-edit75#"
+table75 -> "core/mass-edit75#"
+"core/mass-edit76#" -> table77
+"col-name:City" -> "core/mass-edit76#"
+table76 -> "core/mass-edit76#"
+"core/mass-edit77#" -> table78
+"col-name:City" -> "core/mass-edit77#"
+table77 -> "core/mass-edit77#"
+"core/mass-edit78#" -> table79
+"col-name:City" -> "core/mass-edit78#"
+table78 -> "core/mass-edit78#"
+
+/* End of double cluster for drawing box around nodes in workflow */
+}}
+
+/* Style for nodes representing workflow input ports */
+node[shape=circle style="rounded,filled" fillcolor="#FFFFFF" peripheries=1 fontname=Helvetica width=0.2]
+
+/* Nodes representing workflow input ports */
+"col-name:City_input_port" [label=""]
+table0_input_port [label=""]
+
+/* Style for nodes representing workflow output ports */
+node[shape=circle style="rounded,filled" fillcolor="#FFFFFF" peripheries=1 fontname=Helvetica width=0.2]
+
+/* Nodes representing workflow output ports */
+table79_output_port [label=""]
+
+/* Edges from input ports to channels */
+"col-name:City_input_port" -> "col-name:City"
+table0_input_port -> table0
+
+/* Edges from channels to output ports */
+table79 -> table79_output_port
+
+/* End of top-level graph */
+}
