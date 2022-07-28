@@ -1,0 +1,133 @@
+--------------------------
+FIELD LEVEL CLEANING STAGE
+--------------------------
+
+STAGE 1 - OpenRefine
+----------------------------------------------
+
+INPUT: Food_Inspections.csv
+
+PERFORM THESE OPERATIONS:
+
+- Inspection Type
+    - Remove leading and trailing spaces
+    - Collapse consecutive whitespaces
+    - Merge distinct values determined to be duplicates with inconsistencies
+    OUTPUT: Inspection Type (Stage 1).json
+- License #
+    - Convert values to numbers
+    - Convert NULL values to default license number value of "0"
+    OUTPUT: License # (Stage 1).json
+- DBA Name
+    - Remove leading and trailing spaces
+    - Collapse consecutive whitespaces
+    - Convert text to uppercase
+    - Merge distinct values determined to be duplicates with inconsistencies
+    OUTPUT: DBA Name (Stage 1).json
+- AKA Name
+    - Remove leading and trailing spaces
+    - Collapse consecutive whitespaces
+    - Convert text to uppercase
+    - Merge distinct values determined to be duplicates with inconsistencies
+    OUTPUT: AKA Name (Stage 1).json
+- Facility Type
+    - Remove leading and trailing spaces
+    - Collapse consecutive whitespaces
+    - Convert text to titlecase
+    - Merge distinct values determined to be duplicates with inconsistencies
+    OUTPUT: Facility Type (Stage 1).json
+- Address
+    - Remove leading and trailing spaces
+    - Collapse consecutive whitespaces
+    - Convert text to uppercase
+    - Remove periods from addresses
+    OUTPUT: Address (Stage 1).json
+- City
+    - Remove leading and trailing spaces
+    - Collapse consecutive whitespaces
+    - Convert text to uppercase
+    - Merge distinct values determined to be duplicates with inconsistencies
+    OUTPUT: City (Stage 1).json
+- State
+    - Convert elements with filler whitespaces to "IL"
+    OUTPUT: State (Stage 1).json
+
+
+FINAL OUTPUT OF STAGE 1: Food-Inspections-OpenRefine-Stage1.csv
+
+
+-------------------------
+RELATIONAL CLEANING STAGE
+-------------------------
+
+
+STAGE 2A - OpenRefine
+----------------------------------------------
+
+INPUT: Food-Inspections-OpenRefine-Stage1.csv
+
+1. Execute "OpenRefine Output Database Import.sql" to load input file to STAGING TABLE
+
+2. Execute the following scripts
+
+- DBA Name
+    - Execute "SQL Relational Integrity Constraint Check - Inconsistent DBA_Name.sql" (section 1.2.1 of report)
+    - Update records with inconsistent names in OpenRefine with the results of the SQL statement (section 1.2.1 of report)
+    OUTPUT: DBA Name (Stage 2).json
+- Address
+    - Execute "SQL Relational Integrity Constraint Check - Inconsistent Business Address.sql" (section 1.2.2 of report)
+    - Update inconsistent address field values in OpenRefine withe results of the SQL statement (section 1.2.2 of report)
+    - Execute "SQL Relational Integrity Constraint Check - Empty Address.sql" (section 1.2.3 of report)
+    - Use Google Maps and the Location field to locate the address and update the records with OpenRefine (section 1.2.3 of report)
+    OUTPUT: Address (Stage 2).json 
+- City
+    - Execute "SQL Relational Integrity Constraint Check - Empty City.sql" (section 1.2.3 of report)
+    - Use Google Maps and the Location field to locate the city and update the records with OpenRefine (section 1.2.3 of report)
+    OUTPUT: City (Stage 2).json
+- Zip
+    - Execute "SQL Relational Integrity Constraint Check - Empty Zip.sql" (section 1.2.3 of report)
+    - Use Google Maps and the Location field to locate the zip code and update the records with OpenRefine (section 1.2.3 of report)
+    OUTPUT: Zip (Stage 2).json
+
+OUTPUT: Food-Inspections-OpenRefine-Stage2a.csv
+
+STAGE 2B
+----------------------------------------------
+
+- Location
+    INPUT: Food-Inspections-OpenRefine-Stage2a.csv
+    - Run python script "address-to-coordinates.py" to get empty location fields, use Google Maps API to get coordinates and update the staging database (section 1.2.3 of report)
+    OUTPUT: Food-Inspections-OpenRefine-Stage2b.csv
+    OUTPUT: Latitude, Longitude, Location (Stage 2).json
+
+OUTPUT: Food-Inspections-OpenRefine-Stage2b.csv
+
+
+
+----------------------------
+NORMALIZATION CLEANING STAGE
+----------------------------
+
+INPUT: Food-Inspections-OpenRefine-Stage2b.csv
+
+- Execute "sql/Schema.sql" to create an instance of the normalized, constraint-enforced schema.
+- Execute "sql/Populate Normalized Schema.sql" to populate schema instance with data from the staging table.
+
+
+OUPUT: Populated database consistent with the schema.
+
+
+
+
+Other SQL FILES:
+=============================================
+
+Use Case U1.sql                                                             --> used in section 3
+Use Case U1 Dirty Data.sql                                                  --> used in section 3
+
+
+SQL Relational Integrity Constraint Check - Empty Address, City, Zip.sql    --> Not mentioned
+Raw Data Database Import.sql                                                --> Not mentioned
+Phase-II Report Violations Field Normalization Example.sql                  --> Not mentioned
+
+
