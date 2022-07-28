@@ -1,0 +1,45 @@
+# @BEGIN Stage2a_Relational_Cleaning
+# @PARAM stage1_final_dataset
+# @IN stage1_final_dataset @URI file:Food-Inspections-OpenRefine-Stage1.csv
+# @OUT stage2a_final_dataset @URI file:Food-Inspections-OpenRefine-Stage2a.csv
+# @OUT updated_staging_table
+
+# @BEGIN Load_Staging_Table @desc Load CSV file to SQL Server staging table
+# @IN stage1_final_dataset @URI file:Food-Inspections-OpenRefine-Stage1.csv
+# @OUT staging_table
+# @END Load_Staging_Table
+
+# @BEGIN Fix_Inconsistent_DBAName_Records
+# @IN staging_table
+# @IN IC_Inconsistent_DBAName_SQL @URI file:SQL Relational Integrity Constraint Check - Inconsistent DBA_Name.sql
+# @OUT DBAName_recipe_stage2_json @URI DBAName-Stage2.json
+# @OUT stage2a_final_dataset @URI file:Food-Inspections-OpenRefine-Stage2a.csv
+# @OUT updated_staging_table
+# @END Fix_Inconsistent_DBAName_Records
+
+# @BEGIN Fix_Inconsistent_Empty_Address_Records 
+# @IN staging_table
+# @IN IC_Inconsistent_Address_SQL @URI file:SQL Relational Integrity Constraint Check - Inconsistent Business Address.sql
+# @IN IC_Empty_Address_SQL @URI file:SQL Relational Integrity Constraint Check - Empty Address.sql
+# @OUT Address_recipe_stage2_json @URI Address-Stage2.json
+# @OUT stage2a_final_dataset @URI file:Food-Inspections-OpenRefine-Stage2a.csv
+# @OUT updated_staging_table
+# @END Fix_Address_Records
+
+# @BEGIN Fix_Empty_City_Records 
+# @IN staging_table
+# @IN IC_Empty_City_SQL @URI file:SQL Relational Integrity Constraint Check - Empty City.sql
+# @OUT City_recipe_stage2_json @URI City-Stage2.json
+# @OUT stage2a_final_dataset @URI file:Food-Inspections-OpenRefine-Stage2a.csv
+# @OUT updated_staging_table
+# @END Fix_Empty_City_Records
+
+# @BEGIN Fix_Zip_Records
+# @IN staging_table
+# @IN IC_Empty_Zip_SQL @URI file:SQL Relational Integrity Constraint Check - Empty Zip.sql
+# @OUT Zip_recipe_stage2_json @URI Zip-Stage2.json
+# @OUT stage2a_final_dataset @URI file:Food-Inspections-OpenRefine-Stage2a.csv
+# @OUT updated_staging_table
+# @END Fix_Zip_Records
+
+# @END Stage2a_Relational_Cleaning

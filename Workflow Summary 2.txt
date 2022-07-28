@@ -76,7 +76,7 @@ INPUT: Food-Inspections-OpenRefine-Stage1.csv
     OUTPUT: DBA Name (Stage 2).json
 - Address
     - Execute "SQL Relational Integrity Constraint Check - Inconsistent Business Address.sql" (section 1.2.2 of report)
-    - Update inconsistent address field values in OpenRefine withe results of the SQL statement (section 1.2.2 of report)
+    - Update inconsistent address field values in OpenRefine with the results of the SQL statement (section 1.2.2 of report)
     - Execute "SQL Relational Integrity Constraint Check - Empty Address.sql" (section 1.2.3 of report)
     - Use Google Maps and the Location field to locate the address and update the records with OpenRefine (section 1.2.3 of report)
     OUTPUT: Address (Stage 2).json 
@@ -98,7 +98,7 @@ STAGE 2B
     INPUT: Food-Inspections-OpenRefine-Stage2a.csv
     - Run python script "address-to-coordinates.py" to get empty location fields, use Google Maps API to get coordinates and update the staging database (section 1.2.3 of report)
     OUTPUT: Food-Inspections-OpenRefine-Stage2b.csv
-    OUTPUT: Latitude, Longitude, Location (Stage 2).json
+    OUTPUT: Latitude-Longitude-Location-Stage2.json
 
 OUTPUT: Food-Inspections-OpenRefine-Stage2b.csv
 

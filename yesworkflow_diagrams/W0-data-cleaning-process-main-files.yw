@@ -1,0 +1,27 @@
+# @BEGIN DATA_CLEANING_PROCESS #@desc Data cleaning process
+# @PARAM input_dataset
+# @IN input_dataset @URI file:Food_Inspections.csv
+# @OUT populated_schema_enforced_db
+    # @BEGIN Stage1_Field_Level_Cleaning@desc Perform field level cleaning operations with OpenRefine
+    # @IN input_dataset @URI file:Food_Inspections.csv
+    # @OUT stage1_final_dataset @URI file:Food-Inspections-OpenRefine-Stage1.csv
+    # @END Stage1_Field_Level_Cleaning
+    
+    # @BEGIN Stage2a_Relational_Cleaning@desc Perform relational cleaning using IC SQL queries and OpenRefine
+    # @IN stage1_final_dataset @URI file:Food-Inspections-OpenRefine-Stage1.csv
+    # @OUT updated_staging_table
+    # @OUT stage2a_final_dataset @URI file:Food-Inspections-OpenRefine-Stage2a.csv
+    # @END Stage2a_Relational_Cleaning
+    
+    # @BEGIN Stage2b_Relational_Cleaning@desc Perform relational cleaning using Python Script and Google Maps
+    # @IN updated_staging_table
+    # @OUT stage2b_final_dataset @URI file:Food-Inspections-OpenRefine-Stage2b.csv
+    # @OUT updated_staging_table2
+    # @END Stage2b_Relational_Cleaning
+    
+    # @BEGIN Stage3_Normalization_Cleaning@desc Load result to constraint-enforced schema in SQL Server
+    # @IN updated_staging_table2
+    # @OUT populated_schema_enforced_db
+    # @END Stage3_Normalization_Cleaning
+    
+# @END DATA_CLEANING_PROCESS

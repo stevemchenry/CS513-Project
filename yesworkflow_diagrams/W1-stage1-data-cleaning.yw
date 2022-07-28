@@ -1,0 +1,62 @@
+# @BEGIN Stage1_Field_Level_Cleaning
+# @PARAM input_dataset
+# @IN input_dataset @URI file:Food_Inspections.csv
+# @OUT stage1_final_dataset @URI file:Food-Inspections-OpenRefine-Stage1.csv
+# @OUT Address_recipe_stage1_json @URI Address-Stage1.json
+# @OUT AKAName_recipe_stage1_json @URI AKAName-Stage1.json
+# @OUT City_recipe_stage1_json @URI City-Stage1.json
+# @OUT DBAName_recipe_stage1_json @URI DBAName-Stage1.json
+# @OUT FacilityType_recipe_stage1_json @URI FacilityType-Stage1.json
+# @OUT InspectionType_recipe_stage1_json @URI InspectionType-Stage1.json
+# @OUT License_recipe_stage1_json @URI License-Stage1.json
+# @OUT State_recipe_stage1_json @URI State-Stage1.json
+
+# @BEGIN Clean-Inspection-Type-Field @desc Clean Inspect Type Field
+# @IN input_dataset @URI file:Food_Inspections.csv
+# @OUT stage1_final_dataset @URI file:Food-Inspections-OpenRefine-Stage1.csv
+# @OUT InspectionType_recipe_stage1_json @URI file:InspectionType-Stage1.json
+# @END Clean-Inspection-Type-Field
+
+# @BEGIN Clean-License-Field @desc Clean License Field
+# @IN input_dataset @URI file:Food_Inspections.csv
+# @OUT stage1_final_dataset @URI file:Food-Inspections-OpenRefine-Stage1.csv
+# @OUT License_recipe_stage1_json @URI file:License-Stage1.json
+# @END Clean-License-Field
+
+# @BEGIN Clean-DBAName-Field @desc Clean DBAName Field
+# @IN input_dataset @URI file:Food_Inspections.csv
+# @OUT stage1_final_dataset @URI file:Food-Inspections-OpenRefine-Stage1.csv
+# @OUT DBAName_recipe_stage1_json @URI file:DBAName-Stage1.json
+# @END Clean-DBAName-Field
+
+# @BEGIN Clean-AKAName-Field @desc Clean AKAName Field
+# @IN input_dataset @URI file:Food_Inspections.csv
+# @OUT stage1_final_dataset @URI file:Food-Inspections-OpenRefine-Stage1.csv
+# @OUT AKAName_recipe_stage1_json @URI file:AKAName-Stage1.json
+# @END Clean-AKAName-Field
+
+# @BEGIN Clean-FacilityType-Field @desc Clean Facility Type Field
+# @IN input_dataset @URI file:Food_Inspections.csv
+# @OUT stage1_final_dataset @URI file:Food-Inspections-OpenRefine-Stage1.csv
+# @OUT FacilityType_recipe_stage1_json @URI file:FacilityType-Stage1.json
+# @END Clean-FacilityType-Field
+
+# @BEGIN Clean-Address-Field @desc Clean Address Field
+# @IN input_dataset @URI file:Food_Inspections.csv
+# @OUT stage1_final_dataset @URI file:Food-Inspections-OpenRefine-Stage1.csv
+# @OUT Address_recipe_stage1_json @URI file:Address-Stage1.json
+# @END Clean-Address-Field
+
+# @BEGIN Clean-City-Field @desc Clean City Field
+# @IN input_dataset @URI file:Food_Inspections.csv
+# @OUT stage1_final_dataset @URI file:Food-Inspections-OpenRefine-Stage1.csv
+# @OUT City_recipe_stage1_json @URI file:City-Stage1.json
+# @END Clean-City-Field
+
+# @BEGIN Clean-State-Field @desc Clean State Field
+# @IN input_dataset @URI file:Food_Inspections.csv
+# @OUT stage1_final_dataset @URI file:Food-Inspections-OpenRefine-Stage1.csv
+# @OUT State_recipe_stage1_json @URI file:State-Stage1.json
+# @END Clean-State-Field
+
+# @END Stage1_Field_Level_Cleaning

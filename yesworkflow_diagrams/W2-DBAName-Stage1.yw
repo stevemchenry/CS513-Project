@@ -1,0 +1,41 @@
+#@begin Clean-DBAName-Field
+#@param expression:value.replace(/\\s+/,'_')
+#@param col-name:DBA_Name
+#@param expression:value.trim()
+#@param expression:value.toUppercase()
+#@in table0
+#@out table6
+#@begin core/text-transform0#@desc Text transform on cells in column DBA Name using expression value.trim()
+#@param col-name:DBA_Name
+#@param expression:value.trim()
+#@in table0
+#@out table1
+#@end core/text-transform0
+#@begin core/text-transform1#@desc Text transform on cells in column DBA Name using expression value.replace(/\\s+/,' ')
+#@param col-name:DBA_Name
+#@param expression:value.replace(/\\s+/,'_')
+#@in table1
+#@out table2
+#@end core/text-transform1
+#@begin core/text-transform2#@desc Text transform on cells in column DBA Name using expression value.toUppercase()
+#@param col-name:DBA_Name
+#@param expression:value.toUppercase()
+#@in table2
+#@out table3
+#@end core/text-transform2
+#@begin core/mass-edit0#@desc Mass edit cells in column DBA Name
+#@param col-name:DBA_Name
+#@in table3
+#@out table4
+#@end core/mass-edit0
+#@begin core/mass-edit1#@desc Mass edit cells in column DBA Name
+#@param col-name:DBA_Name
+#@in table4
+#@out table5
+#@end core/mass-edit1
+#@begin core/mass-edit2#@desc Mass edit cells in column DBA Name
+#@param col-name:DBA_Name
+#@in table5
+#@out table6
+#@end core/mass-edit2
+#@end Clean-DBAName-Field

@@ -1,0 +1,10 @@
+#@begin Clean-State-Field
+#@param col-name:State
+#@in table0
+#@out table1
+#@begin core/mass-edit0#@desc Mass edit cells in column State
+#@param col-name:State
+#@in table0
+#@out table1
+#@end core/mass-edit0
+#@end Clean-State-Field
