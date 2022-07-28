@@ -1,5 +1,12 @@
 USE CDPH;
 
+-- PREREQUISITE: Before executing this script, it is expected that the user
+-- has 1) executed "sql/Raw Data Database Import.sql" to import the raw
+-- (dirty) source data into the database, as the table named "DataRaw"
+-- and 2) executed workflow W to completion such that the table named
+-- "DataOpenRefine" exists and contains the cleaned (but non-normalized)
+-- dataset
+
 -- Throughout this script, values from the raw data are explicitly collated
 -- as case-sensitive, accent-sensitive to avoid underreporting by databases
 -- or columns configured with case-insensitive collations
@@ -335,9 +342,9 @@ WHERE DR.[Location] IS NULL
 
 -- Demonstrate that no records contained empty (NULL) location elements in the cleaned data
 SELECT COUNT(*) AS Location_DataCleaned_NULL
-FROM Business
-WHERE Business.[Location] IS NULL
-	OR Business.Longitude IS NULL
-	OR Business.Latitude IS NULL;
+FROM DataOpenRefine AS DOR
+WHERE DOR.[Location] IS NULL
+	OR DOR.Longitude IS NULL
+	OR DOR.Latitude IS NULL;
 
 GO
