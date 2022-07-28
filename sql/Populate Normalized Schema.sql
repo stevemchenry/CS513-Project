@@ -1,5 +1,7 @@
 USE CDPH;
 
+BEGIN TRANSACTION
+
 -- Generate a BusinessID for all businesses in the staging table
 IF EXISTS
 (
@@ -36,7 +38,7 @@ FROM
 ) T
 WHERE DataOpenRefine.Inspection_ID = T.Inspection_ID
 
--- Populate the FacilityType table
+-- Populate the FacilityType table (supplementary to U1)
 INSERT INTO FacilityType([Name])
 SELECT DISTINCT DOR.Facility_Type
 FROM DataOpenRefine AS DOR
@@ -50,7 +52,7 @@ FROM DataOpenRefine AS DOR
 WHERE DOR.Risk IS NOT NULL
 ORDER BY DOR.Risk;
 
--- Populate the InspectionType table
+-- Populate the InspectionType table (supplementary to U1)
 INSERT INTO InspectionType([Name])
 SELECT DISTINCT DOR.Inspection_Type
 FROM DataOpenRefine AS DOR
@@ -200,3 +202,5 @@ FROM
 -- Clean up
 ALTER TABLE DataOpenRefine
 DROP COLUMN BusinessID;
+
+COMMIT TRANSACTION
