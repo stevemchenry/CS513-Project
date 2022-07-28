@@ -1,0 +1,167 @@
+Inspection_ID_DataRaw_NonUniqueCount
+------------------------------------
+0
+
+(1 row affected)
+
+Inspection_ID_DataOpenRefine_NonUniqueCount
+-------------------------------------------
+0
+
+(1 row affected)
+
+DBA_Name_MergedValueCount
+-------------------------
+837
+
+(1 row affected)
+
+DBA_Name_MergedElementCount
+---------------------------
+17977
+
+(1 row affected)
+
+AKA_Name_MergedValueCount
+-------------------------
+799
+
+(1 row affected)
+
+AKA_Name_MergedElementCount
+---------------------------
+17046
+
+(1 row affected)
+
+License_DataRaw_NULLCount
+-------------------------
+15
+
+(1 row affected)
+
+License_DataOpenRefine_NULLCount
+--------------------------------
+0
+
+(1 row affected)
+
+Facility_Type_MergedCount
+-------------------------
+151
+
+(1 row affected)
+
+Facility_Type_MergedElementCount
+--------------------------------
+4849
+
+(1 row affected)
+
+Address_MergedCount
+-------------------
+203
+
+(1 row affected)
+
+Address_MergedElementCount
+--------------------------
+153467
+
+(1 row affected)
+
+Address_DataOpenRefine_NULLCount
+--------------------------------
+0
+
+(1 row affected)
+
+City_DataRaw_NULL
+-----------------
+159
+
+(1 row affected)
+
+City_DataCleaned_NULL
+---------------------
+0
+
+(1 row affected)
+
+City_MergedValueCount
+---------------------
+14
+
+(1 row affected)
+
+City_MergedElementCount
+-----------------------
+581
+
+(1 row affected)
+
+State_DataRaw_NULL
+------------------
+8
+
+(1 row affected)
+
+State_DataOpenRefine_NULL
+-------------------------
+0
+
+(1 row affected)
+
+Zip_DataRaw_NULL
+----------------
+98
+
+(1 row affected)
+
+Zip_DataOpenRefine_NULL
+-----------------------
+0
+
+(1 row affected)
+
+Zip_MergedElementCount
+----------------------
+102
+
+(1 row affected)
+
+Inspection_Type_MergedCount
+---------------------------
+51
+
+(1 row affected)
+
+InspectionType_MergedElementCount
+---------------------------------
+1520
+
+(1 row affected)
+
+Violations_DataRaw_Count
+------------------------
+568654
+
+(1 row affected)
+
+Violations_DataOpenRefine_Count
+-------------------------------
+568654
+
+(1 row affected)
+
+Location_DataRaw_NULL
+---------------------
+544
+
+(1 row affected)
+
+Location_DataCleaned_NULL
+-------------------------
+0
+
+(1 row affected)
