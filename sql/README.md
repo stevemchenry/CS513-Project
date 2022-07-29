@@ -31,6 +31,9 @@ Loads the `DataOpenRefine` staging table into the normalized schema. The script 
 ### Delta D Analysis.sql
 Provides integrity constraint violation checks, "before-and-after" data set comparisons, and high-level profiling. This script is the same as `queries.txt` in the project's root directory.
 
+### Use Case U0.sql
+Executes the U0 query from the Phase-I report against the original, dirty dataset in from the `DataRaw` table (see `Raw Data Database Import.sql`).
+
 ### Use Case U1.sql
 Executes the U1 query against the cleaned dataset in the normalized schema.
 
