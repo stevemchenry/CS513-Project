@@ -1,0 +1,71 @@
+/* Start of top-level graph */
+digraph Workflow {
+rankdir=TB
+
+/* Title for graph */
+fontname=Helvetica; fontsize=18; labelloc=t
+label=DATA_CLEANING_PROCESS
+
+/* Start of double cluster for drawing box around nodes in workflow */
+subgraph cluster_workflow_box_outer { label=""; color=black; penwidth=2
+subgraph cluster_workflow_box_inner { label=""; penwidth=0
+
+/* Style for nodes representing atomic programs in workflow */
+node[shape=box style=filled fillcolor="#CCFFCC" peripheries=1 fontname=Helvetica]
+
+/* Nodes representing atomic programs in workflow */
+Stage1_Field_Level_Cleaning [shape=record rankdir=LR label="{<f0> Stage1_Field_Level_Cleaning |<f1> Perform field level cleaning operations with OpenRefine}"];
+Stage2a_Relational_Cleaning [shape=record rankdir=LR label="{<f0> Stage2a_Relational_Cleaning |<f1> Perform relational cleaning using IC SQL queries and OpenRefine}"];
+Stage2b_Relational_Cleaning [shape=record rankdir=LR label="{<f0> Stage2b_Relational_Cleaning |<f1> Perform relational cleaning using Python Script and Google Maps}"];
+Stage3_Normalization_Cleaning [shape=record rankdir=LR label="{<f0> Stage3_Normalization_Cleaning |<f1> Load result to constraint-enforced schema in SQL Server}"];
+
+/* Style for nodes representing non-parameter data channels in workflow */
+node[shape=box style="rounded,filled" fillcolor="#FFFFCC" peripheries=1 fontname=Helvetica]
+
+/* Nodes for non-parameter data channels in workflow */
+populated_schema_enforced_db
+input_dataset [shape=record rankdir=LR label="{<f0> input_dataset |<f1> file\:Food_Inspections.csv}"];
+stage1_final_dataset [shape=record rankdir=LR label="{<f0> stage1_final_dataset |<f1> file\:Food-Inspections-OpenRefine-Stage1.csv}"];
+updated_staging_table
+updated_staging_table2
+
+/* Style for nodes representing parameter channels in workflow */
+node[shape=box style="rounded,filled" fillcolor="#FCFCFC" peripheries=1 fontname=Helvetica]
+
+/* Nodes representing parameter channels in workflow */
+
+/* Edges representing connections between programs and channels */
+Stage1_Field_Level_Cleaning -> stage1_final_dataset
+input_dataset -> Stage1_Field_Level_Cleaning
+Stage2a_Relational_Cleaning -> updated_staging_table
+Stage2a_Relational_Cleaning -> stage2a_final_dataset
+stage1_final_dataset -> Stage2a_Relational_Cleaning
+Stage2b_Relational_Cleaning -> stage2b_final_dataset
+Stage2b_Relational_Cleaning -> updated_staging_table2
+updated_staging_table -> Stage2b_Relational_Cleaning
+Stage3_Normalization_Cleaning -> populated_schema_enforced_db
+updated_staging_table2 -> Stage3_Normalization_Cleaning
+
+/* End of double cluster for drawing box around nodes in workflow */
+}}
+
+/* Style for nodes representing workflow input ports */
+node[shape=circle style="rounded,filled" fillcolor="#FFFFFF" peripheries=1 fontname=Helvetica width=0.2]
+
+/* Nodes representing workflow input ports */
+input_dataset_input_port [label=""]
+
+/* Style for nodes representing workflow output ports */
+node[shape=circle style="rounded,filled" fillcolor="#FFFFFF" peripheries=1 fontname=Helvetica width=0.2]
+
+/* Nodes representing workflow output ports */
+populated_schema_enforced_db_output_port [label=""]
+
+/* Edges from input ports to channels */
+input_dataset_input_port -> input_dataset
+
+/* Edges from channels to output ports */
+populated_schema_enforced_db -> populated_schema_enforced_db_output_port
+
+/* End of top-level graph */
+}
