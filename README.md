@@ -27,5 +27,7 @@ This folder contains SQL queries. The prerequisite to execution are:
 1. Microsoft SQL Server 2017 (or greater) as the database engine
 1. A database named `CDPH` with the default collation `SQL_Latin1_General_CP1_CI_AS`
 
+This folder contains a separate README further describing the contents of the directory.
+
 ### yw-diagrams/
 This folder contains YesWorkFlow diagrams (.yw) and Grahphiz Files (.gv) for the project, organized in 3 levels. WO gives an overview of the entire cleaning project. W1 describes the 3 phases of the project in more detail. Finally, W2 contain the diagrams for the OpenRefine recipes.
