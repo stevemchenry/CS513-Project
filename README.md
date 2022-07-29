@@ -32,5 +32,5 @@ This folder contains a separate README further describing the contents of the di
 ### yw-diagrams/
 This folder contains YesWorkFlow diagrams (.yw) and Grahphiz Files (.gv) for the project, organized in 3 levels. WO gives an overview of the entire cleaning project. W1 describes the 3 phases of the project in more detail. Finally, W2 contain the diagrams for the OpenRefine recipes.
 
-## tableau/
+### tableau/
 This folder contains the Tableau Desktop work files for the dashboard visualization published to Tableau Public with the cleaned dataset.
